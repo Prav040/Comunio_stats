@@ -1,0 +1,517 @@
+Playerid,Datum,Verein,Name,Position,Punkte,Punkte pro Spiel,Passquote,Zweikampf,Marktwert
+30755,11/01/2023,FC Bayern München,Neuer,Torwart,43,"3,58",87%,83%,800000
+33671,11/01/2023,FC Bayern München,Schenk,Torwart,0,-,-,-,210000
+31216,11/01/2023,FC Bayern München,Ulreich,Torwart,8,"2,67",81%,67%,2180000
+33021,11/01/2023,FC Bayern München,Davies,Abwehr,35,"2,92",89%,55%,7360000
+33074,11/01/2023,FC Bayern München,Lucas Hernández,Abwehr,18,"2,57",91%,63%,1610000
+33349,11/01/2023,FC Bayern München,Sarr,Abwehr,0,-,-,-,200000
+33386,11/01/2023,FC Bayern München,Stanišić,Abwehr,7,"1,17",92%,58%,900000
+33605,11/01/2023,FC Bayern München,Mazraoui,Abwehr,29,"2,64",88%,57%,3470000
+33660,11/01/2023,FC Bayern München,de Ligt,Abwehr,44,"3,67",92%,54%,7470000
+32742,11/01/2023,FC Bayern München,Pavard,Abwehr,71,"5,46",89%,66%,6770000
+32720,11/01/2023,FC Bayern München,Upamecano,Abwehr,54,"3,60",91%,59%,7390000
+33703,11/01/2023,FC Bayern München,Blind,Abwehr,0,-,-,-,8960000
+33626,11/01/2023,FC Bayern München,Gravenberch,Mittelfeld,11,"1,10",88%,45%,1800000
+32187,11/01/2023,FC Bayern München,Goretzka,Mittelfeld,51,"4,64",83%,58%,11890000
+33547,11/01/2023,FC Bayern München,Wanner,Mittelfeld,3,"3,00",71%,67%,400000
+32445,11/01/2023,FC Bayern München,Kimmich,Mittelfeld,115,"7,67",89%,53%,17040000
+33236,11/01/2023,FC Bayern München,Musiala,Mittelfeld,96,"6,86",85%,45%,18510000
+32590,11/01/2023,FC Bayern München,Sabitzer,Mittelfeld,44,"3,14",88%,55%,3010000
+32272,11/01/2023,FC Bayern München,L. Sané,Sturm,69,"5,31",84%,51%,13820000
+32518,11/01/2023,FC Bayern München,Coman,Sturm,27,"3,00",86%,45%,8930000
+33633,11/01/2023,FC Bayern München,Mané,Sturm,63,"4,50",75%,48%,12530000
+31362,11/01/2023,FC Bayern München,T. Müller,Sturm,44,"5,50",79%,50%,11660000
+33662,11/01/2023,FC Bayern München,Tel,Sturm,27,"3,86",85%,43%,4710000
+31165,11/01/2023,FC Bayern München,Choupo-Moting,Sturm,66,"6,60",76%,55%,16180000
+32696,11/01/2023,FC Bayern München,Gnabry,Sturm,93,"6,20",83%,39%,16150000
+32638,11/01/2023,Borussia Dortmund,Kobel,Torwart,42,"3,82",81%,100%,3740000
+32841,11/01/2023,Borussia Dortmund,A. Meyer,Torwart,5,"1,25",88%,50%,240000
+33036,11/01/2023,Borussia Dortmund,Unbehaun,Torwart,0,-,-,-,170000
+33396,11/01/2023,Borussia Dortmund,Lotka,Torwart,0,-,-,-,180000
+33038,11/01/2023,Borussia Dortmund,N. Schlotterbeck,Abwehr,70,"4,67",87%,68%,7960000
+33137,11/01/2023,Borussia Dortmund,Mateu Morey,Abwehr,0,-,-,-,870000
+33259,11/01/2023,Borussia Dortmund,Meunier,Abwehr,23,"2,88",72%,52%,2070000
+33432,11/01/2023,Borussia Dortmund,S. Coulibaly,Abwehr,0,-,-,-,200000
+33509,11/01/2023,Borussia Dortmund,A. Papadopoulos,Abwehr,2,"2,00",89%,33%,210000
+33567,11/01/2023,Borussia Dortmund,Rothe,Abwehr,4,"4,00",100%,100%,260000
+31002,11/01/2023,Borussia Dortmund,Hummels,Abwehr,52,"4,00",88%,59%,5720000
+32632,11/01/2023,Borussia Dortmund,Raphaël Guerreiro,Abwehr,47,"3,92",86%,59%,5880000
+32556,11/01/2023,Borussia Dortmund,Passlack,Abwehr,4,"2,00",73%,80%,270000
+31779,11/01/2023,Borussia Dortmund,N. Schulz,Abwehr,0,-,-,-,300000
+32122,11/01/2023,Borussia Dortmund,Süle,Abwehr,34,"2,83",89%,56%,4060000
+32546,11/01/2023,Borussia Dortmund,M. Wolf,Abwehr,34,"3,40",73%,57%,1780000
+33690,11/01/2023,Borussia Dortmund,Pašalić,Mittelfeld,0,"0,00",100%,33%,220000
+33608,11/01/2023,Borussia Dortmund,Gürpüz,Mittelfeld,0,-,-,-,310000
+32677,11/01/2023,Borussia Dortmund,Özcan,Mittelfeld,22,"1,83",88%,49%,2950000
+33497,11/01/2023,Borussia Dortmund,Kamara,Mittelfeld,0,-,-,-,170000
+31935,11/01/2023,Borussia Dortmund,Can,Mittelfeld,14,"1,56",89%,56%,1020000
+33309,11/01/2023,Borussia Dortmund,Bellingham,Mittelfeld,83,"5,53",83%,60%,12870000
+32236,11/01/2023,Borussia Dortmund,Brandt,Mittelfeld,70,"4,67",83%,45%,8850000
+32208,11/01/2023,Borussia Dortmund,Dahoud,Mittelfeld,9,"3,00",78%,56%,4480000
+33260,11/01/2023,Borussia Dortmund,Moukoko,Sturm,53,"4,08",72%,43%,9280000
+33687,11/01/2023,Borussia Dortmund,Njinmah,Sturm,0,"0,00",0%,50%,310000
+33575,11/01/2023,Borussia Dortmund,Adeyemi,Sturm,13,"1,18",75%,42%,4700000
+33569,11/01/2023,Borussia Dortmund,Bynoe-Gittens,Sturm,2,"0,50",79%,35%,3380000
+31454,11/01/2023,Borussia Dortmund,Reus,Sturm,28,"3,11",78%,42%,10880000
+33501,11/01/2023,Borussia Dortmund,Malen,Sturm,20,"2,00",78%,42%,3810000
+33198,11/01/2023,Borussia Dortmund,Reyna,Sturm,22,"2,20",75%,46%,4460000
+32197,11/01/2023,Borussia Dortmund,Modeste,Sturm,33,"2,54",62%,38%,3450000
+32769,11/01/2023,Borussia Dortmund,Haller,Sturm,0,-,-,-,13250000
+32342,11/01/2023,Borussia Dortmund,Hazard,Sturm,22,"1,69",80%,44%,1830000
+32508,11/01/2023,Bayer Leverkusen,Hradecky,Torwart,25,"1,79",70%,100%,2000000
+32007,11/01/2023,Bayer Leverkusen,Lomb,Torwart,0,-,-,-,170000
+33479,11/01/2023,Bayer Leverkusen,Lunev,Torwart,0,"0,00",76%,-,160000
+33366,11/01/2023,Bayer Leverkusen,Fosu-Mensah,Abwehr,8,"1,60",80%,58%,400000
+33369,11/01/2023,Bayer Leverkusen,Frimpong,Abwehr,65,"4,33",79%,55%,6730000
+33125,11/01/2023,Bayer Leverkusen,Sinkgraven,Abwehr,6,"1,50",71%,47%,300000
+33511,11/01/2023,Bayer Leverkusen,Hincapié,Abwehr,31,"2,38",83%,53%,2810000
+33481,11/01/2023,Bayer Leverkusen,Bakker,Abwehr,17,"1,31",77%,45%,1140000
+32157,11/01/2023,Bayer Leverkusen,Tah,Abwehr,32,"2,13",89%,54%,2620000
+33499,11/01/2023,Bayer Leverkusen,Kossounou ,Abwehr,14,"1,40",83%,55%,830000
+33207,11/01/2023,Bayer Leverkusen,Tapsoba,Abwehr,35,"2,33",86%,59%,3290000
+33449,11/01/2023,Bayer Leverkusen,Azhil,Mittelfeld,0,-,-,-,200000
+33483,11/01/2023,Bayer Leverkusen,Sertdemir,Mittelfeld,0,-,-,-,180000
+33189,11/01/2023,Bayer Leverkusen,Palacios,Mittelfeld,35,"3,50",85%,57%,3950000
+33614,11/01/2023,Bayer Leverkusen,Eze,Mittelfeld,0,-,-,-,210000
+32512,11/01/2023,Bayer Leverkusen,Charles Aránguiz,Mittelfeld,25,"2,50",83%,56%,1040000
+32395,11/01/2023,Bayer Leverkusen,Amiri,Mittelfeld,21,"1,91",83%,48%,2710000
+32155,11/01/2023,Bayer Leverkusen,Demirbay,Mittelfeld,46,"3,29",79%,36%,4830000
+32129,11/01/2023,Bayer Leverkusen,Andrich,Mittelfeld,37,"2,85",84%,57%,3740000
+33215,11/01/2023,Bayer Leverkusen,Wirtz,Mittelfeld,0,-,-,-,15890000
+33556,11/01/2023,Bayer Leverkusen,Azmoun,Sturm,10,"1,25",59%,38%,1910000
+33619,11/01/2023,Bayer Leverkusen,Hložek,Sturm,31,"2,38",83%,39%,3610000
+33514,11/01/2023,Bayer Leverkusen,Adli,Sturm,11,"1,38",83%,37%,1710000
+31764,11/01/2023,Bayer Leverkusen,Bellarabi,Sturm,0,"0,00",62%,50%,1180000
+33179,11/01/2023,Bayer Leverkusen,Schick,Sturm,22,"2,00",71%,43%,8900000
+33122,11/01/2023,Bayer Leverkusen,Diaby,Sturm,78,"5,20",81%,38%,12550000
+33680,11/01/2023,Bayer Leverkusen,Hudson-Odoi,Sturm,18,"2,00",88%,58%,4320000
+33663,11/01/2023,RB Leipzig,Nickisch,Torwart,0,-,-,-,170000
+32575,11/01/2023,RB Leipzig,Gulácsi,Torwart,15,"2,50",85%,-,580000
+32481,11/01/2023,RB Leipzig,Nyland,Torwart,5,"5,00",88%,-,250000
+33664,11/01/2023,RB Leipzig,Schlieck,Torwart,0,-,-,-,170000
+31827,11/01/2023,RB Leipzig,Blaswich,Torwart,19,"2,38",84%,100%,1750000
+33434,11/01/2023,RB Leipzig,Simakan,Abwehr,31,"3,10",85%,50%,2920000
+33433,11/01/2023,RB Leipzig,Gvardiol,Abwehr,22,"1,69",90%,60%,5150000
+32824,11/01/2023,RB Leipzig,Diallo,Abwehr,24,"4,80",86%,56%,3460000
+33436,11/01/2023,RB Leipzig,Raum,Abwehr,29,"2,07",81%,46%,4450000
+33679,11/01/2023,RB Leipzig,Ba,Abwehr,0,-,-,-,320000
+32581,11/01/2023,RB Leipzig,Klostermann,Abwehr,2,"2,00",75%,71%,2560000
+32580,11/01/2023,RB Leipzig,Halstenberg,Abwehr,26,"2,17",85%,56%,2190000
+32461,11/01/2023,RB Leipzig,Henrichs,Abwehr,32,"2,29",73%,61%,2030000
+31846,11/01/2023,RB Leipzig,Orbán,Abwehr,82,"5,47",89%,62%,7920000
+33540,11/01/2023,RB Leipzig,Clark,Mittelfeld,0,-,-,-,210000
+33363,11/01/2023,RB Leipzig,Szoboszlai,Mittelfeld,63,"4,85",83%,47%,11620000
+33200,11/01/2023,RB Leipzig,Dani Olmo,Mittelfeld,35,"3,50",80%,45%,10170000
+33133,11/01/2023,RB Leipzig,Schlager,Mittelfeld,26,"2,36",87%,46%,3850000
+33023,11/01/2023,RB Leipzig,Haidara,Mittelfeld,16,"1,33",83%,30%,1250000
+32800,11/01/2023,RB Leipzig,Laimer,Mittelfeld,7,"1,75",77%,50%,5260000
+32589,11/01/2023,RB Leipzig,Forsberg,Mittelfeld,29,"2,42",86%,46%,3960000
+31612,11/01/2023,RB Leipzig,Kampl,Mittelfeld,28,"2,00",91%,45%,1840000
+33180,11/01/2023,RB Leipzig,André Silva,Sturm,40,"2,86",74%,41%,7870000
+33151,11/01/2023,RB Leipzig,Nkunku,Sturm,102,"6,80",82%,43%,14500000
+32591,11/01/2023,RB Leipzig,Y. Poulsen,Sturm,7,"1,17",42%,55%,1430000
+32211,11/01/2023,RB Leipzig,Werner,Sturm,34,"3,78",75%,31%,11340000
+33091,11/01/2023,FC Union Berlin,Busk,Torwart,0,-,-,-,170000
+33257,11/01/2023,FC Union Berlin,L. Grill,Torwart,-5,"-1,25",66%,67%,240000
+32921,11/01/2023,FC Union Berlin,Rönnow,Torwart,42,"3,82",67%,75%,2850000
+33659,11/01/2023,FC Union Berlin,Diogo Leite,Abwehr,26,"2,00",80%,57%,1770000
+33609,11/01/2023,FC Union Berlin,Doekhi,Abwehr,26,"4,33",81%,61%,2220000
+33141,11/01/2023,FC Union Berlin,Ryerson,Abwehr,34,"2,62",73%,49%,1740000
+33096,11/01/2023,FC Union Berlin,Trimmel,Abwehr,32,"2,46",64%,47%,2170000
+31864,11/01/2023,FC Union Berlin,Knoche,Abwehr,38,"2,71",81%,60%,2790000
+32883,11/01/2023,FC Union Berlin,Jaeckel,Abwehr,19,"1,90",80%,42%,600000
+32340,11/01/2023,FC Union Berlin,Baumgartl,Abwehr,5,"1,25",83%,62%,770000
+32057,11/01/2023,FC Union Berlin,Gießelmann,Abwehr,28,"2,55",75%,45%,1120000
+32532,11/01/2023,FC Union Berlin,Pantović,Mittelfeld,12,"1,50",69%,48%,430000
+32073,11/01/2023,FC Union Berlin,R. Khedira,Mittelfeld,26,"1,86",75%,50%,1920000
+33550,11/01/2023,FC Union Berlin,Schäfer,Mittelfeld,14,"1,27",76%,46%,860000
+33661,11/01/2023,FC Union Berlin,Thorsby,Mittelfeld,15,"1,36",68%,44%,490000
+32185,11/01/2023,FC Union Berlin,Öztunali,Mittelfeld,0,-,-,0%,260000
+32310,11/01/2023,FC Union Berlin,Haberer,Mittelfeld,40,"3,08",69%,39%,2660000
+32324,11/01/2023,FC Union Berlin,Haraguchi,Mittelfeld,16,"2,00",81%,69%,620000
+32251,11/01/2023,FC Union Berlin,Seguin,Mittelfeld,16,"2,29",77%,52%,570000
+32924,11/01/2023,FC Union Berlin,Möhwald,Mittelfeld,0,-,-,-,240000
+33641,11/01/2023,FC Union Berlin,Jordan,Sturm,48,"3,69",53%,44%,5800000
+33616,11/01/2023,FC Union Berlin,Skarke,Sturm,0,"0,00",71%,27%,2830000
+33135,11/01/2023,FC Union Berlin,S. Becker,Sturm,81,"5,40",69%,29%,8580000
+33469,11/01/2023,FC Union Berlin,Behrens,Sturm,40,"2,67",63%,52%,2020000
+33411,11/01/2023,FC Union Berlin,Leweling,Sturm,6,"1,00",88%,41%,590000
+32087,11/01/2023,FC Union Berlin,Michel,Sturm,31,"2,82",61%,40%,1490000
+33294,11/01/2023,FC Union Berlin,Maciejewski,Sturm,0,-,-,-,210000
+32925,11/01/2023,SC Freiburg,Flekken,Torwart,55,"3,67",72%,86%,3700000
+31881,11/01/2023,SC Freiburg,Uphoff,Torwart,0,-,-,-,250000
+33439,11/01/2023,SC Freiburg,Atubolu,Torwart,0,-,-,-,170000
+33541,11/01/2023,SC Freiburg,Siquet,Abwehr,1,"1,00",83%,75%,190000
+33462,11/01/2023,SC Freiburg,Ezekwem,Abwehr,0,-,-,-,220000
+33461,11/01/2023,SC Freiburg,Sildillia,Abwehr,28,"2,00",75%,44%,1540000
+33704,11/01/2023,SC Freiburg,K. Schmidt,Abwehr,0,-,-,-,170000
+32807,11/01/2023,SC Freiburg,Lienhart,Abwehr,43,"2,87",86%,67%,3700000
+32597,11/01/2023,SC Freiburg,Kübler,Abwehr,31,"6,20",70%,51%,4070000
+31910,11/01/2023,SC Freiburg,Ginter,Abwehr,74,"4,93",84%,66%,7310000
+32019,11/01/2023,SC Freiburg,C. Günter,Abwehr,40,"2,67",77%,38%,4280000
+31453,11/01/2023,SC Freiburg,Gulde,Abwehr,4,"1,33",83%,50%,390000
+31751,11/01/2023,SC Freiburg,J. Schmid,Abwehr,0,-,-,-,360000
+33677,11/01/2023,SC Freiburg,Röhl,Mittelfeld,0,-,-,-,210000
+33637,11/01/2023,SC Freiburg,Kyereh,Mittelfeld,17,"1,89",81%,43%,1900000
+33576,11/01/2023,SC Freiburg,R. Wagner,Mittelfeld,0,"0,00",100%,0%,250000
+31710,11/01/2023,SC Freiburg,Höfler,Mittelfeld,39,"2,60",85%,57%,3120000
+33458,11/01/2023,SC Freiburg,Weißhaupt ,Mittelfeld,12,"1,50",59%,53%,670000
+32398,11/01/2023,SC Freiburg,M. Eggestein,Mittelfeld,35,"2,69",79%,55%,2620000
+33211,11/01/2023,SC Freiburg,Keitel,Mittelfeld,12,"1,33",83%,42%,580000
+33006,11/01/2023,SC Freiburg,Sallai,Mittelfeld,15,"2,14",76%,56%,3070000
+32071,11/01/2023,SC Freiburg,Grifo,Mittelfeld,116,"7,73",80%,54%,16410000
+33335,11/01/2023,SC Freiburg,Doan,Sturm,42,"2,80",74%,44%,4860000
+33035,11/01/2023,SC Freiburg,Jeong,Sturm,21,"1,62",80%,39%,1330000
+31958,11/01/2023,SC Freiburg,Gregoritsch,Sturm,78,"5,20",56%,50%,9400000
+32861,11/01/2023,SC Freiburg,Höler,Sturm,5,"0,71",59%,36%,3470000
+31395,11/01/2023,SC Freiburg,Petersen,Sturm,13,"1,30",50%,29%,640000
+31848,11/01/2023,FC Köln,T. Horn,Torwart,0,-,-,-,220000
+33495,11/01/2023,FC Köln,Köbbing,Torwart,0,-,-,-,160000
+32356,11/01/2023,FC Köln,Schwäbe,Torwart,12,"0,80",80%,100%,1120000
+33688,11/01/2023,FC Köln,Smajić,Abwehr,0,-,-,-,200000
+33105,11/01/2023,FC Köln,Kilian,Abwehr,10,"0,77",86%,57%,670000
+33632,11/01/2023,FC Köln,K. Pedersen,Abwehr,6,"1,20",75%,59%,220000
+33642,11/01/2023,FC Köln,Strauch,Abwehr,0,-,-,-,220000
+33051,11/01/2023,FC Köln,Schindler,Abwehr,12,"0,86",67%,53%,390000
+32744,11/01/2023,FC Köln,Hübers,Abwehr,22,"1,83",83%,57%,1620000
+33552,11/01/2023,FC Köln,Chabot,Abwehr,10,"5,00",88%,58%,1020000
+33686,11/01/2023,FC Köln,Soldo,Abwehr,5,"1,00",78%,50%,430000
+32628,11/01/2023,FC Köln,B. Schmitz,Abwehr,35,"2,50",63%,58%,1340000
+32278,11/01/2023,FC Köln,Hector,Abwehr,45,"3,46",78%,69%,3890000
+33453,11/01/2023,FC Köln,Ljubičić,Mittelfeld,40,"4,44",82%,42%,5420000
+33562,11/01/2023,FC Köln,Olesen,Mittelfeld,5,"1,67",73%,60%,480000
+33356,11/01/2023,FC Köln,Martel,Mittelfeld,19,"1,73",81%,54%,850000
+33338,11/01/2023,FC Köln,Limnios,Mittelfeld,0,-,-,-,220000
+32881,11/01/2023,FC Köln,Maina,Mittelfeld,30,"2,14",74%,40%,1950000
+33621,11/01/2023,FC Köln,Huseinbašić,Mittelfeld,20,"2,50",85%,39%,1800000
+33157,11/01/2023,FC Köln,Skhiri,Mittelfeld,45,"3,21",89%,57%,5080000
+32636,11/01/2023,FC Köln,Kainz,Mittelfeld,81,"5,79",73%,44%,8550000
+32668,11/01/2023,FC Köln,Duda,Mittelfeld,8,"0,62",78%,40%,800000
+33615,11/01/2023,FC Köln,Dietz,Sturm,13,"1,30",58%,42%,310000
+33365,11/01/2023,FC Köln,Tigges,Sturm,35,"2,92",60%,44%,2510000
+33270,11/01/2023,FC Köln,Lemperle,Sturm,1,"0,33",60%,17%,330000
+33185,11/01/2023,FC Köln,Thielmann,Sturm,21,"2,10",69%,48%,1170000
+33100,11/01/2023,FC Köln,S. Andersson,Sturm,0,-,-,-,260000
+33077,11/01/2023,FC Köln,Adamyan,Sturm,17,"1,31",74%,27%,900000
+32229,11/01/2023,FC Köln,Selke,Sturm,26,"2,17",60%,46%,4670000
+31709,11/01/2023,FC Köln,Uth,Sturm,4,"1,33",83%,60%,990000
+33466,11/01/2023,FSV Mainz 05,Rieß,Torwart,0,-,-,-,170000
+32364,11/01/2023,FSV Mainz 05,Zentner,Torwart,33,"2,20",48%,86%,1450000
+32877,11/01/2023,FSV Mainz 05,Dahmen,Torwart,0,-,-,-,300000
+33117,11/01/2023,FSV Mainz 05,E. Fernandes,Abwehr,30,"2,31",75%,54%,1550000
+32989,11/01/2023,FSV Mainz 05,Aarón Martín,Abwehr,70,"4,67",83%,51%,5880000
+33417,11/01/2023,FSV Mainz 05,Leitsch,Abwehr,13,"1,86",77%,67%,830000
+31666,11/01/2023,FSV Mainz 05,Bell,Abwehr,25,"1,92",81%,48%,690000
+32534,11/01/2023,FSV Mainz 05,A. Hack,Abwehr,17,"1,31",74%,54%,1460000
+33478,11/01/2023,FSV Mainz 05,Widmer,Abwehr,36,"2,77",75%,57%,2590000
+31762,11/01/2023,FSV Mainz 05,da Costa,Abwehr,12,"1,50",65%,50%,560000
+33577,11/01/2023,FSV Mainz 05,Caci,Abwehr,27,"2,45",74%,47%,1050000
+33477,11/01/2023,FSV Mainz 05,J. Lee,Mittelfeld,46,"3,07",77%,49%,2960000
+33409,11/01/2023,FSV Mainz 05,Stach,Mittelfeld,51,"3,92",69%,60%,4500000
+32992,11/01/2023,FSV Mainz 05,Barreiro,Mittelfeld,19,"1,58",70%,53%,1280000
+33590,11/01/2023,FSV Mainz 05,E. Shabani,Mittelfeld,0,-,-,-,190000
+32707,11/01/2023,FSV Mainz 05,Barkok,Mittelfeld,8,"1,33",82%,38%,330000
+33654,11/01/2023,FSV Mainz 05,Fulgini,Mittelfeld,13,"0,93",82%,41%,600000
+31959,11/01/2023,FSV Mainz 05,D. Kohr,Mittelfeld,42,"3,00",73%,52%,2440000
+33578,11/01/2023,FSV Mainz 05,Weiper,Sturm,1,"1,00",100%,-,690000
+33555,11/01/2023,FSV Mainz 05,Burgzorg,Sturm,9,"0,90",71%,31%,350000
+33538,11/01/2023,FSV Mainz 05,Bobzien,Sturm,0,-,-,-,230000
+33297,11/01/2023,FSV Mainz 05,Mustapha,Sturm,4,"1,00",53%,46%,190000
+33124,11/01/2023,FSV Mainz 05,Ingvartsen,Sturm,33,"3,67",66%,34%,2540000
+32948,11/01/2023,FSV Mainz 05,Burkardt,Sturm,27,"2,45",73%,42%,3240000
+32544,11/01/2023,FSV Mainz 05,Onisiwo,Sturm,55,"3,67",62%,36%,4960000
+33695,11/01/2023,FSV Mainz 05,Gruda,Sturm,0,-,-,-,290000
+31310,11/01/2023,TSG Hoffenheim,Pentke,Torwart,0,-,-,-,170000
+33313,11/01/2023,TSG Hoffenheim,L. Philipp,Torwart,0,-,-,-,170000
+33397,11/01/2023,TSG Hoffenheim,Noll,Torwart,0,-,-,-,160000
+31489,11/01/2023,TSG Hoffenheim,Baumann,Torwart,45,"3,00",80%,100%,2990000
+33027,11/01/2023,TSG Hoffenheim,Lucas Ribeiro,Abwehr,0,-,-,-,200000
+33026,11/01/2023,TSG Hoffenheim,Kabak,Abwehr,62,"4,43",85%,58%,5440000
+33669,11/01/2023,TSG Hoffenheim,Nsoki,Abwehr,9,"1,00",81%,52%,780000
+33670,11/01/2023,TSG Hoffenheim,Quaresma,Abwehr,5,"1,67",88%,73%,380000
+33205,11/01/2023,TSG Hoffenheim,Angeliño,Abwehr,53,"3,79",70%,54%,6080000
+33693,11/01/2023,TSG Hoffenheim,Quarshie,Abwehr,0,-,-,-,270000
+31416,11/01/2023,TSG Hoffenheim,Vogt,Abwehr,34,"2,43",90%,47%,1940000
+31742,11/01/2023,TSG Hoffenheim,Bičakčić,Abwehr,0,-,-,-,300000
+32162,11/01/2023,TSG Hoffenheim,Akpoguma,Abwehr,30,"2,31",79%,54%,1220000
+32466,11/01/2023,TSG Hoffenheim,Kadeřábek,Abwehr,27,"2,08",70%,55%,1060000
+33437,11/01/2023,TSG Hoffenheim,Stiller,Mittelfeld,17,"1,89",78%,64%,1170000
+33504,11/01/2023,TSG Hoffenheim,Bischof,Mittelfeld,1,"1,00",75%,0%,360000
+33580,11/01/2023,TSG Hoffenheim,F. Becker,Mittelfeld,0,-,-,-,230000
+33673,11/01/2023,TSG Hoffenheim,Damar,Mittelfeld,4,"1,00",81%,32%,300000
+31349,11/01/2023,TSG Hoffenheim,Rudy,Mittelfeld,16,"1,60",79%,46%,570000
+33158,11/01/2023,TSG Hoffenheim,Skov,Mittelfeld,53,"3,79",72%,45%,5020000
+32977,11/01/2023,TSG Hoffenheim,Baumgartner,Mittelfeld,61,"4,07",73%,41%,6900000
+32492,11/01/2023,TSG Hoffenheim,Prömel,Mittelfeld,32,"2,46",78%,52%,1570000
+32680,11/01/2023,TSG Hoffenheim,Geiger,Mittelfeld,45,"3,21",86%,46%,3440000
+33191,11/01/2023,TSG Hoffenheim,Dabbur,Sturm,39,"3,90",76%,33%,3510000
+32553,11/01/2023,TSG Hoffenheim,Kramarić,Sturm,41,"2,93",81%,47%,9030000
+32756,11/01/2023,TSG Hoffenheim,Bruun Larsen,Sturm,11,"1,10",77%,33%,550000
+33536,11/01/2023,TSG Hoffenheim,Asllani,Sturm,1,"0,33",62%,33%,500000
+32842,11/01/2023,TSG Hoffenheim,Bebou,Sturm,0,-,-,-,4160000
+33377,11/01/2023,TSG Hoffenheim,Rutter,Sturm,32,"2,13",64%,39%,3350000
+33700,11/01/2023,TSG Hoffenheim,Dolberg,Sturm,0,-,-,-,8640000
+33692,11/01/2023,Borussioa M'Gladbach,Brüll,Torwart,0,-,-,-,160000
+33691,11/01/2023,Borussioa M'Gladbach,Dimmer,Torwart,0,-,-,-,170000
+31618,11/01/2023,Borussioa M'Gladbach,Sippel,Torwart,-2,"-0,67",63%,67%,660000
+32306,11/01/2023,Borussioa M'Gladbach,Sommer,Torwart,44,"4,40",81%,67%,4920000
+33306,11/01/2023,Borussioa M'Gladbach,Olschowsky,Torwart,8,"4,00",75%,0%,1910000
+33702,11/01/2023,Borussioa M'Gladbach,Walde,Abwehr,0,-,-,-,190000
+33167,11/01/2023,Borussioa M'Gladbach,Bensebaini,Abwehr,87,"6,21",77%,62%,10130000
+33258,11/01/2023,Borussioa M'Gladbach,Scally,Abwehr,24,"1,60",77%,68%,1510000
+33319,11/01/2023,Borussioa M'Gladbach,Netz,Abwehr,3,"0,75",69%,53%,560000
+33592,11/01/2023,Borussioa M'Gladbach,Itakura,Abwehr,12,"2,40",91%,52%,4760000
+33128,11/01/2023,Borussioa M'Gladbach,Lainer,Abwehr,0,"0,00",68%,33%,410000
+31380,11/01/2023,Borussioa M'Gladbach,Jantschke,Abwehr,4,"2,00",89%,67%,230000
+32311,11/01/2023,Borussioa M'Gladbach,M. Friedrich,Abwehr,30,"2,50",86%,72%,2090000
+32634,11/01/2023,Borussioa M'Gladbach,Doucouré,Abwehr,0,-,-,-,190000
+32472,11/01/2023,Borussioa M'Gladbach,Elvedi,Abwehr,50,"3,85",92%,74%,4710000
+32931,11/01/2023,Borussioa M'Gladbach,Neuhaus,Mittelfeld,13,"2,17",75%,38%,6470000
+33450,11/01/2023,Borussioa M'Gladbach,Koné,Mittelfeld,40,"2,86",87%,56%,4510000
+33526,11/01/2023,Borussioa M'Gladbach,Noß,Mittelfeld,0,-,-,-,190000
+32080,11/01/2023,Borussioa M'Gladbach,Hofmann,Mittelfeld,88,"6,77",79%,46%,15380000
+33636,11/01/2023,Borussioa M'Gladbach,Fraulo,Mittelfeld,0,-,-,-,190000
+33353,11/01/2023,Borussioa M'Gladbach,Reitz,Mittelfeld,0,-,100%,-,190000
+32159,11/01/2023,Borussioa M'Gladbach,Kramer,Mittelfeld,9,"0,64",84%,42%,1250000
+32447,11/01/2023,Borussioa M'Gladbach,Weigl,Mittelfeld,28,"2,55",88%,69%,3830000
+33075,11/01/2023,Borussioa M'Gladbach,H. Wolf,Mittelfeld,2,"1,00",71%,63%,420000
+32944,11/01/2023,Borussioa M'Gladbach,Müsel,Sturm,0,-,-,-,190000
+31596,11/01/2023,Borussioa M'Gladbach,P. Herrmann,Sturm,18,"2,25",69%,41%,670000
+33681,11/01/2023,Borussioa M'Gladbach,Ngoumou,Sturm,4,"0,67",71%,44%,700000
+32968,11/01/2023,Borussioa M'Gladbach,Pléa,Sturm,50,"4,55",72%,42%,9230000
+33618,11/01/2023,Borussioa M'Gladbach,Borges Sanches,Sturm,4,"1,33",83%,50%,260000
+33152,11/01/2023,Borussioa M'Gladbach,Thuram,Sturm,92,"6,13",74%,45%,13350000
+31243,11/01/2023,Borussioa M'Gladbach,Stindl,Sturm,34,"3,09",79%,38%,5550000
+33698,11/01/2023,Eintrach Frankfurt,Simoni,Torwart,0,-,-,-,310000
+31458,11/01/2023,Eintrach Frankfurt,Grahl,Torwart,0,-,-,-,200000
+31621,11/01/2023,Eintrach Frankfurt,Trapp,Torwart,22,"1,47",60%,100%,2460000
+33440,11/01/2023,Eintrach Frankfurt,Ramaj,Torwart,0,-,-,-,170000
+33094,11/01/2023,Eintrach Frankfurt,C. Lenz,Abwehr,27,"3,00",81%,55%,2070000
+31220,11/01/2023,Eintrach Frankfurt,Hasebe,Abwehr,9,"2,25",85%,67%,670000
+33613,11/01/2023,Eintrach Frankfurt,Smolčić,Abwehr,9,"2,25",77%,87%,1100000
+33620,11/01/2023,Eintrach Frankfurt,Buta,Abwehr,0,-,-,-,750000
+33646,11/01/2023,Eintrach Frankfurt,Schröder,Abwehr,0,-,-,-,190000
+33675,11/01/2023,Eintrach Frankfurt,Pellegrini,Abwehr,30,"3,33",73%,56%,2270000
+33031,11/01/2023,Eintrach Frankfurt,Touré,Abwehr,4,"2,00",81%,71%,650000
+33029,11/01/2023,Eintrach Frankfurt,Tuta,Abwehr,30,"2,00",81%,45%,1870000
+32963,11/01/2023,Eintrach Frankfurt,N'Dicka,Abwehr,33,"2,20",86%,55%,2910000
+32653,11/01/2023,Eintrach Frankfurt,Sow,Mittelfeld,50,"3,33",86%,59%,3850000
+31671,11/01/2023,Eintrach Frankfurt,Rode,Mittelfeld,40,"3,33",87%,53%,2880000
+33585,11/01/2023,Eintrach Frankfurt,Loune,Mittelfeld,0,-,-,-,190000
+31572,11/01/2023,Eintrach Frankfurt,M. Götze,Mittelfeld,61,"4,07",78%,44%,9370000
+33678,11/01/2023,Eintrach Frankfurt,Dina Ebimbe,Mittelfeld,29,"2,90",72%,48%,3410000
+33581,11/01/2023,Eintrach Frankfurt,Wenig,Mittelfeld,0,-,90%,-,180000
+33517,11/01/2023,Eintrach Frankfurt,Jakić,Mittelfeld,32,"2,29",77%,49%,2130000
+33480,11/01/2023,Eintrach Frankfurt,Lindstrøm,Mittelfeld,54,"3,86",70%,35%,8070000
+32792,11/01/2023,Eintrach Frankfurt,Kamada,Mittelfeld,75,"5,77",84%,45%,11160000
+33696,11/01/2023,Eintrach Frankfurt,Aaronson,Mittelfeld,0,-,-,-,3010000
+33383,11/01/2023,Eintrach Frankfurt,Knauff,Mittelfeld,22,"2,00",65%,52%,3100000
+31743,11/01/2023,Eintrach Frankfurt,Chandler,Mittelfeld,2,"0,67",61%,60%,200000
+33586,11/01/2023,Eintrach Frankfurt,Nacho Ferri,Sturm,0,-,-,-,310000
+33584,11/01/2023,Eintrach Frankfurt,Kolo Muani,Sturm,59,"4,21",66%,39%,13660000
+33583,11/01/2023,Eintrach Frankfurt,Alidou,Sturm,7,"0,88",78%,32%,360000
+32840,11/01/2023,Eintrach Frankfurt,Lucas Alario,Sturm,16,"2,29",70%,38%,1690000
+33472,11/01/2023,Eintrach Frankfurt,Borré,Sturm,24,"1,71",77%,40%,1720000
+31866,11/01/2023,VfL Wolfsburg,Casteels,Torwart,58,"3,87",74%,100%,3880000
+33488,11/01/2023,VfL Wolfsburg,Schulze,Torwart,0,-,-,-,160000
+33154,11/01/2023,VfL Wolfsburg,Klinger,Torwart,0,-,-,-,160000
+32949,11/01/2023,VfL Wolfsburg,Pervan,Torwart,0,-,-,-,340000
+33625,11/01/2023,VfL Wolfsburg,Fischer,Abwehr,2,"0,67",76%,44%,410000
+33674,11/01/2023,VfL Wolfsburg,Lange,Abwehr,0,-,-,-,190000
+33164,11/01/2023,VfL Wolfsburg,Bornauw,Abwehr,17,"1,70",82%,45%,1360000
+33120,11/01/2023,VfL Wolfsburg,Paulo Otávio,Abwehr,49,"3,77",76%,58%,4060000
+32988,11/01/2023,VfL Wolfsburg,Roussillon,Abwehr,2,"1,00",50%,20%,290000
+32889,11/01/2023,VfL Wolfsburg,Baku,Abwehr,62,"4,13",79%,52%,6730000
+33524,11/01/2023,VfL Wolfsburg,van de Ven,Abwehr,40,"2,67",89%,61%,3000000
+33325,11/01/2023,VfL Wolfsburg,Lacroix,Abwehr,28,"3,11",87%,57%,1680000
+33639,11/01/2023,VfL Wolfsburg,Franjić,Mittelfeld,8,"2,67",77%,65%,450000
+33658,11/01/2023,VfL Wolfsburg,Svanberg,Mittelfeld,19,"1,36",72%,48%,890000
+33498,11/01/2023,VfL Wolfsburg,F. Nmecha,Mittelfeld,45,"3,46",70%,63%,4530000
+33553,11/01/2023,VfL Wolfsburg,Paredes,Mittelfeld,10,"1,43",78%,50%,590000
+33705,11/01/2023,VfL Wolfsburg,Ambros,Mittelfeld,0,-,-,-,420000
+31884,11/01/2023,VfL Wolfsburg,Arnold,Mittelfeld,97,"6,47",81%,66%,11620000
+32373,11/01/2023,VfL Wolfsburg,Guilavogui,Mittelfeld,21,"2,33",79%,48%,2430000
+32280,11/01/2023,VfL Wolfsburg,Gerhardt,Mittelfeld,30,"3,33",75%,37%,2380000
+32206,11/01/2023,VfL Wolfsburg,Waldschmidt,Sturm,6,"1,00",76%,41%,3470000
+33657,11/01/2023,VfL Wolfsburg,Pejčinović,Sturm,0,-,-,-,350000
+32269,11/01/2023,VfL Wolfsburg,M. Philipp,Sturm,6,"2,00",76%,67%,920000
+33607,11/01/2023,VfL Wolfsburg,J. Kaminski,Sturm,8,"0,62",73%,34%,1590000
+33559,11/01/2023,VfL Wolfsburg,Wind,Sturm,14,"2,80",68%,65%,4970000
+32606,11/01/2023,VfL Wolfsburg,Brekalo,Sturm,8,"1,33",74%,36%,350000
+33507,11/01/2023,VfL Wolfsburg,P. Wimmer,Sturm,25,"3,13",63%,40%,3850000
+33160,11/01/2023,VfL Wolfsburg,L. Nmecha,Sturm,43,"3,58",65%,58%,4990000
+33217,11/01/2023,VfL Wolfsburg,Marmoush,Sturm,21,"1,50",66%,42%,2070000
+33685,11/01/2023,VfL Bochum,Johansson,Torwart,0,-,-,-,170000
+33415,11/01/2023,VfL Bochum,Grave,Torwart,0,-,-,-,170000
+33414,11/01/2023,VfL Bochum,Riemann,Torwart,41,"2,73",59%,78%,2450000
+32639,11/01/2023,VfL Bochum,Esser,Torwart,0,-,-,-,180000
+31882,11/01/2023,VfL Bochum,Heintz,Abwehr,-1,"-0,25",89%,43%,370000
+33667,11/01/2023,VfL Bochum,Tolba,Abwehr,0,-,-,-,180000
+33653,11/01/2023,VfL Bochum,Ordets,Abwehr,21,"1,50",73%,62%,790000
+33638,11/01/2023,VfL Bochum,Janko,Abwehr,0,"0,00",81%,46%,220000
+33630,11/01/2023,VfL Bochum,Oermann,Abwehr,-2,"-0,50",78%,43%,200000
+33422,11/01/2023,VfL Bochum,Gamboa,Abwehr,27,"1,80",68%,61%,1000000
+33420,11/01/2023,VfL Bochum,Mašović,Abwehr,16,"1,45",84%,53%,370000
+33419,11/01/2023,VfL Bochum,Lampropoulos,Abwehr,5,"0,83",68%,55%,290000
+32953,11/01/2023,VfL Bochum,K. Schlotterbeck,Abwehr,5,"2,50",100%,100%,3510000
+32150,11/01/2023,VfL Bochum,Stafylidis,Abwehr,19,"2,38",80%,62%,860000
+32428,11/01/2023,VfL Bochum,Danilo Soares,Abwehr,16,"1,60",73%,61%,1630000
+33635,11/01/2023,VfL Bochum,Osei-Tutu,Mittelfeld,12,"1,00",76%,49%,400000
+33424,11/01/2023,VfL Bochum,Losilla,Mittelfeld,25,"1,67",71%,51%,940000
+33156,11/01/2023,VfL Bochum,Osterhage,Mittelfeld,4,"0,40",67%,33%,350000
+32965,11/01/2023,VfL Bochum,Kunde,Mittelfeld,0,-,-,-,2480000
+31985,11/01/2023,VfL Bochum,Stöger,Mittelfeld,56,"4,00",75%,48%,4390000
+33242,11/01/2023,VfL Bochum,Förster,Mittelfeld,29,"2,64",80%,49%,880000
+33631,11/01/2023,VfL Bochum,Góralski,Mittelfeld,4,"1,33",78%,60%,250000
+33676,11/01/2023,VfL Bochum,Mousset,Sturm,0,-,-,-,210000
+32626,11/01/2023,VfL Bochum,Holtmann,Sturm,32,"2,46",70%,40%,1360000
+32790,11/01/2023,VfL Bochum,Asano,Sturm,3,"0,60",82%,34%,1300000
+33430,11/01/2023,VfL Bochum,Bonga,Sturm,0,-,-,-,180000
+33429,11/01/2023,VfL Bochum,Ganvoula,Sturm,13,"1,63",58%,52%,360000
+33061,11/01/2023,VfL Bochum,Antwi-Adjei,Sturm,34,"3,40",67%,32%,2160000
+31957,11/01/2023,VfL Bochum,P. Hofmann,Sturm,62,"4,13",61%,51%,4840000
+32330,11/01/2023,VfL Bochum,Zoller,Sturm,37,"2,64",62%,38%,1790000
+33012,11/01/2023,FC Augsburg,Leneis,Torwart,0,-,-,-,170000
+32684,11/01/2023,FC Augsburg,Gikiewicz,Torwart,49,"4,45",61%,100%,2680000
+33162,11/01/2023,FC Augsburg,Koubek,Torwart,10,"2,50",61%,100%,320000
+33298,11/01/2023,FC Augsburg,Klein,Torwart,0,-,-,-,160000
+33134,11/01/2023,FC Augsburg,M. Pedersen,Abwehr,21,"1,75",70%,48%,520000
+32801,11/01/2023,FC Augsburg,Uduokhai,Abwehr,10,"1,43",73%,45%,1380000
+32789,11/01/2023,FC Augsburg,Oxford,Abwehr,6,"2,00",57%,59%,2350000
+33587,11/01/2023,FC Augsburg,Zehnter,Abwehr,0,-,-,-,190000
+33452,11/01/2023,FC Augsburg,Winther,Abwehr,2,"2,00",65%,54%,210000
+33403,11/01/2023,FC Augsburg,M. Bauer,Abwehr,18,"1,29",72%,61%,480000
+32549,11/01/2023,FC Augsburg,Gouweleeuw,Abwehr,29,"2,07",66%,56%,1330000
+33332,11/01/2023,FC Augsburg,Gumny,Abwehr,23,"2,09",61%,45%,700000
+33129,11/01/2023,FC Augsburg,Iago,Abwehr,12,"0,92",63%,42%,770000
+33127,11/01/2023,FC Augsburg,Vargas,Mittelfeld,20,"1,82",53%,49%,1430000
+33398,11/01/2023,FC Augsburg,Petkov,Mittelfeld,4,"0,67",52%,35%,280000
+31571,11/01/2023,FC Augsburg,D. Caligiuri,Mittelfeld,17,"2,13",63%,42%,1220000
+32956,11/01/2023,FC Augsburg,Jensen,Mittelfeld,22,"2,00",60%,37%,720000
+31838,11/01/2023,FC Augsburg,Baumgartlinger,Mittelfeld,7,"1,17",85%,52%,680000
+31915,11/01/2023,FC Augsburg,Strobl,Mittelfeld,0,-,-,-,180000
+32255,11/01/2023,FC Augsburg,Carlos Gruezo,Mittelfeld,22,"1,69",74%,57%,530000
+33701,11/01/2023,FC Augsburg,Engels,Mittelfeld,0,-,-,-,1540000
+32603,11/01/2023,FC Augsburg,Dorsch,Mittelfeld,0,-,-,-,3530000
+32738,11/01/2023,FC Augsburg,A. Maier,Mittelfeld,14,"1,40",77%,43%,860000
+32817,11/01/2023,FC Augsburg,Rexhbecaj,Mittelfeld,18,"1,29",60%,58%,750000
+32572,11/01/2023,FC Augsburg,Sarenren-Bazee,Sturm,0,-,-,-,180000
+33311,11/01/2023,FC Augsburg,Demirović,Sturm,56,"3,73",47%,37%,4320000
+32096,11/01/2023,FC Augsburg,Hahn,Sturm,21,"3,00",47%,48%,690000
+32806,11/01/2023,FC Augsburg,Sergio Córdova,Sturm,0,-,-,-,260000
+33683,11/01/2023,FC Augsburg,Berisha,Sturm,35,"3,50",51%,35%,3190000
+32465,11/01/2023,FC Augsburg,Niederlechner,Sturm,49,"3,50",61%,42%,4770000
+33689,11/01/2023,VfB Stuttgart,Glaus,Torwart,0,-,-,-,170000
+33527,11/01/2023,VfB Stuttgart,Schock,Torwart,0,-,-,-,160000
+32656,11/01/2023,VfB Stuttgart,F. Müller,Torwart,22,"1,47",80%,100%,950000
+32891,11/01/2023,VfB Stuttgart,Bredlow,Torwart,0,-,-,-,210000
+33496,11/01/2023,VfB Stuttgart,Ito,Abwehr,33,"2,54",82%,49%,1690000
+33308,11/01/2023,VfB Stuttgart,Mavropanos,Abwehr,81,"6,23",80%,66%,8190000
+32452,11/01/2023,VfB Stuttgart,Anton,Abwehr,42,"2,80",82%,56%,2320000
+33017,11/01/2023,VfB Stuttgart,Aidonis,Abwehr,0,-,-,-,200000
+32919,11/01/2023,VfB Stuttgart,B. Sosa,Abwehr,46,"3,83",79%,54%,6130000
+32880,11/01/2023,VfB Stuttgart,Vagnoman,Abwehr,4,"0,50",78%,50%,830000
+32526,11/01/2023,VfB Stuttgart,Stenzel,Abwehr,18,"2,25",76%,65%,490000
+32773,11/01/2023,VfB Stuttgart,Zagadou,Abwehr,11,"1,83",84%,50%,1600000
+33666,11/01/2023,VfB Stuttgart,Ulrich,Mittelfeld,1,"1,00",100%,100%,300000
+33510,11/01/2023,VfB Stuttgart,Millot,Mittelfeld,17,"1,70",84%,44%,700000
+33444,11/01/2023,VfB Stuttgart,Beyaz,Mittelfeld,0,-,-,-,380000
+33347,11/01/2023,VfB Stuttgart,Ahamada,Mittelfeld,35,"2,33",86%,49%,2240000
+33253,11/01/2023,VfB Stuttgart,Egloff,Mittelfeld,14,"1,75",61%,60%,550000
+33247,11/01/2023,VfB Stuttgart,Silas,Mittelfeld,30,"2,14",79%,41%,4810000
+32830,11/01/2023,VfB Stuttgart,Nartey,Mittelfeld,3,"1,50",77%,60%,290000
+33241,11/01/2023,VfB Stuttgart,W. Endo,Mittelfeld,58,"4,14",76%,60%,6730000
+32858,11/01/2023,VfB Stuttgart,Führich,Mittelfeld,45,"3,21",80%,51%,3680000
+33085,11/01/2023,VfB Stuttgart,Karazor,Mittelfeld,24,"2,40",84%,63%,900000
+33652,11/01/2023,VfB Stuttgart,Perea,Sturm,7,"0,88",84%,36%,350000
+33588,11/01/2023,VfB Stuttgart,Kastanaras,Sturm,0,"0,00",100%,0%,290000
+33557,11/01/2023,VfB Stuttgart,Tiago Tomás,Sturm,35,"2,69",62%,44%,3170000
+33072,11/01/2023,VfB Stuttgart,Pfeiffer,Sturm,5,"0,45",62%,43%,610000
+32667,11/01/2023,VfB Stuttgart,Guirassy,Sturm,39,"3,90",68%,55%,5950000
+33445,11/01/2023,VfB Stuttgart,Kuol,Sturm,0,-,-,-,190000
+33245,11/01/2023,VfB Stuttgart,T. Coulibaly,Sturm,3,"3,00",80%,100%,610000
+33563,11/01/2023,Hertha BSC,Ernst,Torwart,0,-,-,-,160000
+33513,11/01/2023,Hertha BSC,Christensen,Torwart,33,"2,20",67%,73%,1660000
+33627,11/01/2023,Hertha BSC,Kwasigroch,Torwart,0,-,-,-,170000
+33316,11/01/2023,Hertha BSC,Zeefuik,Abwehr,0,-,-,-,220000
+33119,11/01/2023,Hertha BSC,Kenny,Abwehr,38,"2,53",75%,55%,1920000
+33617,11/01/2023,Hertha BSC,Uremović,Abwehr,7,"1,00",82%,57%,370000
+33684,11/01/2023,Hertha BSC,Agustín Rogel,Abwehr,12,"1,50",77%,55%,800000
+33566,11/01/2023,Hertha BSC,Eitschberger,Abwehr,0,-,-,-,200000
+32509,11/01/2023,Hertha BSC,Mittelstädt,Abwehr,15,"2,50",80%,54%,1810000
+32049,11/01/2023,Hertha BSC,Kempf,Abwehr,53,"3,53",78%,61%,3720000
+31740,11/01/2023,Hertha BSC,Plattenhardt,Abwehr,30,"2,31",75%,54%,1230000
+31399,11/01/2023,Hertha BSC,Pekarik,Abwehr,1,"1,00",75%,0%,230000
+33329,11/01/2023,Hertha BSC,M. Dárdai,Abwehr,7,"1,17",61%,60%,410000
+33650,11/01/2023,Hertha BSC,Šunjić,Mittelfeld,22,"1,69",77%,54%,1210000
+33267,11/01/2023,Hertha BSC,Tousart,Mittelfeld,39,"2,79",66%,54%,2040000
+30764,11/01/2023,Hertha BSC,K. Boateng,Mittelfeld,-2,"-0,29",84%,15%,220000
+33001,11/01/2023,Hertha BSC,Boëtius,Mittelfeld,14,"1,40",74%,53%,1130000
+32527,11/01/2023,Hertha BSC,Serdar,Mittelfeld,47,"3,36",73%,53%,3330000
+33629,11/01/2023,Hertha BSC,Scherhant,Sturm,1,"0,50",71%,25%,530000
+33668,11/01/2023,Hertha BSC,Kanga,Sturm,35,"2,50",65%,42%,2950000
+33655,11/01/2023,Hertha BSC,Ejuke,Sturm,27,"1,80",82%,44%,1140000
+33561,11/01/2023,Hertha BSC,Nsona,Sturm,0,-,-,-,210000
+33519,11/01/2023,Hertha BSC,Maolida,Sturm,-1,"-0,50",38%,18%,290000
+33500,11/01/2023,Hertha BSC,Jovetić,Sturm,25,"3,13",62%,50%,1730000
+33214,11/01/2023,Hertha BSC,Ngankam,Sturm,0,-,-,-,660000
+32983,11/01/2023,Hertha BSC,Lukébakio,Sturm,79,"5,27",73%,43%,7400000
+32733,11/01/2023,Hertha BSC,Richter,Sturm,43,"3,58",69%,44%,3490000
+33697,11/01/2023,Hertha BSC,Aksakal,Sturm,0,-,-,-,240000
+30844,11/01/2023,FC Schalke 04,Langer,Torwart,0,-,-,-,180000
+30988,11/01/2023,FC Schalke 04,Fährmann,Torwart,0,-,-,-,240000
+33623,11/01/2023,FC Schalke 04,Heekeren,Torwart,0,-,-,-,160000
+31774,11/01/2023,FC Schalke 04,Schwolow,Torwart,26,"1,73",60%,83%,1010000
+33326,11/01/2023,FC Schalke 04,Tauer,Abwehr,2,"0,67",87%,44%,1270000
+33384,11/01/2023,FC Schalke 04,Aydin,Abwehr,9,"1,29",66%,48%,260000
+33395,11/01/2023,FC Schalke 04,Matriciani,Abwehr,16,"2,00",75%,61%,720000
+33593,11/01/2023,FC Schalke 04,Greiml,Abwehr,2,"0,50",82%,42%,270000
+33595,11/01/2023,FC Schalke 04,I. Cissé,Abwehr,0,-,-,-,250000
+33596,11/01/2023,FC Schalke 04,Ouwejan,Abwehr,25,"2,50",69%,58%,1320000
+33651,11/01/2023,FC Schalke 04,Yoshida,Abwehr,37,"2,47",79%,67%,1940000
+33682,11/01/2023,FC Schalke 04,van den Berg,Abwehr,7,"1,75",83%,45%,690000
+33706,11/01/2023,FC Schalke 04,Uronen,Abwehr,0,-,-,-,1280000
+33226,11/01/2023,FC Schalke 04,Brunner,Abwehr,23,"1,92",74%,47%,980000
+32717,11/01/2023,FC Schalke 04,Kolodziejczak,Abwehr,1,"1,00",85%,0%,350000
+32745,11/01/2023,FC Schalke 04,M. Kaminski,Abwehr,3,"3,00",81%,0%,390000
+33283,11/01/2023,FC Schalke 04,Mohr,Mittelfeld,33,"3,00",67%,45%,1410000
+33656,11/01/2023,FC Schalke 04,Král,Mittelfeld,19,"1,58",70%,51%,1160000
+31392,11/01/2023,FC Schalke 04,Latza,Mittelfeld,7,"0,78",74%,40%,380000
+33622,11/01/2023,FC Schalke 04,Mollet,Mittelfeld,12,"1,33",79%,30%,620000
+33040,11/01/2023,FC Schalke 04,Boujellab,Mittelfeld,0,-,-,-,200000
+33301,11/01/2023,FC Schalke 04,Zalazar,Mittelfeld,11,"1,38",67%,44%,1680000
+33130,11/01/2023,FC Schalke 04,Krauß,Mittelfeld,45,"3,00",75%,55%,2620000
+33087,11/01/2023,FC Schalke 04,Drexler,Mittelfeld,18,"1,50",67%,43%,850000
+31479,11/01/2023,FC Schalke 04,Polter,Sturm,27,"1,93",58%,42%,730000
+32190,11/01/2023,FC Schalke 04,Karaman,Sturm,1,"0,11",69%,45%,400000
+33672,11/01/2023,FC Schalke 04,Larsson,Sturm,9,"1,00",74%,41%,390000
+31110,11/01/2023,FC Schalke 04,Terodde,Sturm,44,"2,93",67%,36%,3330000
+33694,11/01/2023,FC Schalke 04,S. Sané,Sturm,0,-,-,-,500000
+33699,11/01/2023,FC Schalke 04,Kozuki,Sturm,0,-,-,-,1400000
+33139,11/01/2023,FC Schalke 04,Bülter,Sturm,33,"2,20",68%,41%,1670000
+33665,11/01/2023,SV Werder Bremen,Lord,Torwart,0,-,-,-,160000
+32799,11/01/2023,SV Werder Bremen,Pavlenka,Torwart,35,"2,33",67%,63%,1950000
+33647,11/01/2023,SV Werder Bremen,Backhaus,Torwart,0,-,-,-,160000
+33331,11/01/2023,SV Werder Bremen,Dudu ,Torwart,0,-,-,-,160000
+32408,11/01/2023,SV Werder Bremen,Zetterer,Torwart,5,"5,00",54%,100%,190000
+32935,11/01/2023,SV Werder Bremen,Mbom,Abwehr,0,-,-,-,370000
+33224,11/01/2023,SV Werder Bremen,Pieper,Abwehr,31,"2,38",78%,68%,1770000
+33288,11/01/2023,SV Werder Bremen,Agu,Abwehr,-2,"-0,67",74%,38%,230000
+33601,11/01/2023,SV Werder Bremen,Chiarodia,Abwehr,1,"1,00",0%,100%,380000
+33649,11/01/2023,SV Werder Bremen,Buchanan,Abwehr,22,"2,44",73%,44%,780000
+32754,11/01/2023,SV Werder Bremen,Friedl,Abwehr,32,"2,29",83%,60%,2480000
+32120,11/01/2023,SV Werder Bremen,N. Stark,Abwehr,25,"2,78",82%,55%,1110000
+31929,11/01/2023,SV Werder Bremen,M. Weiser,Abwehr,60,"4,00",71%,51%,5320000
+32579,11/01/2023,SV Werder Bremen,A. Jung,Abwehr,44,"2,93",79%,53%,2340000
+32562,11/01/2023,SV Werder Bremen,Veljković,Abwehr,42,"3,50",81%,61%,2940000
+33640,11/01/2023,SV Werder Bremen,Stage,Mittelfeld,16,"1,23",63%,51%,660000
+33604,11/01/2023,SV Werder Bremen,Salifou,Mittelfeld,0,-,-,-,220000
+31932,11/01/2023,SV Werder Bremen,Bittencourt,Mittelfeld,27,"2,70",77%,45%,2480000
+31519,11/01/2023,SV Werder Bremen,C. Groß,Mittelfeld,21,"1,62",82%,44%,840000
+33110,11/01/2023,SV Werder Bremen,R. Schmid,Mittelfeld,19,"1,36",77%,44%,530000
+33043,11/01/2023,SV Werder Bremen,Gruev,Mittelfeld,21,"1,62",87%,43%,1300000
+32652,11/01/2023,SV Werder Bremen,N. Schmidt,Mittelfeld,20,"3,33",78%,58%,560000
+33364,11/01/2023,SV Werder Bremen,Dinkçi,Sturm,5,"1,67",53%,64%,330000
+32202,11/01/2023,SV Werder Bremen,Ducksch,Sturm,71,"4,73",72%,46%,8170000
+31916,11/01/2023,SV Werder Bremen,Füllkrug,Sturm,97,"6,93",62%,50%,13510000
+32694,11/01/2023,SV Werder Bremen,Burke,Sturm,27,"2,08",71%,33%,1250000

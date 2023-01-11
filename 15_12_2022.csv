@@ -1,0 +1,518 @@
+Playerid,Datum,Verein,Name,Position,Punkte,Punkte pro Spiel,Passquote,Zweikampf,Marktwert
+30755,15/12/2022,FC Bayern München,Neuer,Torwart,43,"3,58",87%,83%,2090000
+33671,15/12/2022,FC Bayern München,Schenk,Torwart,0,-,-,-,260000
+31216,15/12/2022,FC Bayern München,Ulreich,Torwart,8,"2,67",81%,67%,1700000
+33021,15/12/2022,FC Bayern München,Davies,Abwehr,35,"2,92",89%,55%,6610000
+33660,15/12/2022,FC Bayern München,de Ligt,Abwehr,44,"3,67",92%,54%,7350000
+33605,15/12/2022,FC Bayern München,Mazraoui,Abwehr,29,"2,64",88%,57%,4890000
+33386,15/12/2022,FC Bayern München,Stanišić,Abwehr,7,"1,17",92%,58%,850000
+33349,15/12/2022,FC Bayern München,Sarr,Abwehr,0,-,-,-,230000
+33074,15/12/2022,FC Bayern München,Lucas Hernández,Abwehr,18,"2,57",91%,63%,2450000
+32742,15/12/2022,FC Bayern München,Pavard,Abwehr,71,"5,46",89%,66%,6440000
+32720,15/12/2022,FC Bayern München,Upamecano,Abwehr,54,"3,60",91%,59%,7010000
+33547,15/12/2022,FC Bayern München,Wanner,Mittelfeld,3,"3,00",71%,67%,490000
+32590,15/12/2022,FC Bayern München,Sabitzer,Mittelfeld,44,"3,14",88%,55%,3570000
+33236,15/12/2022,FC Bayern München,Musiala,Mittelfeld,96,"6,86",85%,45%,16500000
+32187,15/12/2022,FC Bayern München,Goretzka,Mittelfeld,51,"4,64",83%,58%,11530000
+32445,15/12/2022,FC Bayern München,Kimmich,Mittelfeld,115,"7,67",89%,53%,16260000
+33626,15/12/2022,FC Bayern München,Gravenberch,Mittelfeld,11,"1,10",88%,45%,1840000
+33662,15/12/2022,FC Bayern München,Tel,Sturm,27,"3,86",85%,43%,4100000
+33633,15/12/2022,FC Bayern München,Mané,Sturm,63,"4,50",75%,48%,14800000
+32272,15/12/2022,FC Bayern München,L. Sané,Sturm,69,"5,31",84%,51%,13910000
+32696,15/12/2022,FC Bayern München,Gnabry,Sturm,93,"6,20",83%,39%,13700000
+32518,15/12/2022,FC Bayern München,Coman,Sturm,27,"3,00",86%,45%,8890000
+31165,15/12/2022,FC Bayern München,Choupo-Moting,Sturm,66,"6,60",76%,55%,13340000
+31362,15/12/2022,FC Bayern München,T. Müller,Sturm,44,"5,50",79%,50%,11650000
+32638,15/12/2022,Borussia Dortmund,Kobel,Torwart,42,"3,82",81%,100%,3240000
+32841,15/12/2022,Borussia Dortmund,A. Meyer,Torwart,5,"1,25",88%,50%,240000
+33036,15/12/2022,Borussia Dortmund,Unbehaun,Torwart,0,-,-,-,170000
+33396,15/12/2022,Borussia Dortmund,Lotka,Torwart,0,-,-,-,180000
+33038,15/12/2022,Borussia Dortmund,N. Schlotterbeck,Abwehr,70,"4,67",87%,68%,7480000
+33137,15/12/2022,Borussia Dortmund,Mateu Morey,Abwehr,0,-,-,-,990000
+33259,15/12/2022,Borussia Dortmund,Meunier,Abwehr,23,"2,88",72%,52%,2370000
+33432,15/12/2022,Borussia Dortmund,S. Coulibaly,Abwehr,0,-,-,-,200000
+33509,15/12/2022,Borussia Dortmund,A. Papadopoulos,Abwehr,2,"2,00",89%,33%,240000
+33567,15/12/2022,Borussia Dortmund,Rothe,Abwehr,4,"4,00",100%,100%,250000
+31002,15/12/2022,Borussia Dortmund,Hummels,Abwehr,52,"4,00",88%,59%,5490000
+32632,15/12/2022,Borussia Dortmund,Raphaël Guerreiro,Abwehr,47,"3,92",86%,59%,5470000
+32556,15/12/2022,Borussia Dortmund,Passlack,Abwehr,4,"2,00",73%,80%,270000
+31779,15/12/2022,Borussia Dortmund,N. Schulz,Abwehr,0,-,-,-,320000
+32122,15/12/2022,Borussia Dortmund,Süle,Abwehr,34,"2,83",89%,56%,3960000
+32546,15/12/2022,Borussia Dortmund,M. Wolf,Abwehr,34,"3,40",73%,57%,2380000
+33690,15/12/2022,Borussia Dortmund,Pašalić,Mittelfeld,0,"0,00",100%,33%,220000
+33608,15/12/2022,Borussia Dortmund,Gürpüz,Mittelfeld,0,-,-,-,200000
+32677,15/12/2022,Borussia Dortmund,Özcan,Mittelfeld,22,"1,83",88%,49%,2650000
+33497,15/12/2022,Borussia Dortmund,Kamara,Mittelfeld,0,-,-,-,180000
+31935,15/12/2022,Borussia Dortmund,Can,Mittelfeld,14,"1,56",89%,56%,1170000
+33309,15/12/2022,Borussia Dortmund,Bellingham,Mittelfeld,83,"5,53",83%,60%,12870000
+32236,15/12/2022,Borussia Dortmund,Brandt,Mittelfeld,70,"4,67",83%,45%,10120000
+32208,15/12/2022,Borussia Dortmund,Dahoud,Mittelfeld,9,"3,00",78%,56%,4890000
+33260,15/12/2022,Borussia Dortmund,Moukoko,Sturm,53,"4,08",72%,43%,8760000
+33687,15/12/2022,Borussia Dortmund,Njinmah,Sturm,0,"0,00",0%,50%,220000
+33575,15/12/2022,Borussia Dortmund,Adeyemi,Sturm,13,"1,18",75%,42%,4560000
+33569,15/12/2022,Borussia Dortmund,Bynoe-Gittens,Sturm,2,"0,50",79%,35%,4200000
+31454,15/12/2022,Borussia Dortmund,Reus,Sturm,28,"3,11",78%,42%,10040000
+33501,15/12/2022,Borussia Dortmund,Malen,Sturm,20,"2,00",78%,42%,4290000
+33198,15/12/2022,Borussia Dortmund,Reyna,Sturm,22,"2,20",75%,46%,5270000
+32197,15/12/2022,Borussia Dortmund,Modeste,Sturm,33,"2,54",62%,38%,3950000
+32769,15/12/2022,Borussia Dortmund,Haller,Sturm,0,-,-,-,6940000
+32342,15/12/2022,Borussia Dortmund,Hazard,Sturm,22,"1,69",80%,44%,1900000
+32508,15/12/2022,Bayer Leverkusen,Hradecky,Torwart,25,"1,79",70%,100%,1830000
+32007,15/12/2022,Bayer Leverkusen,Lomb,Torwart,0,-,-,-,180000
+33479,15/12/2022,Bayer Leverkusen,Lunev,Torwart,0,"0,00",76%,-,190000
+33366,15/12/2022,Bayer Leverkusen,Fosu-Mensah,Abwehr,8,"1,60",80%,58%,490000
+33369,15/12/2022,Bayer Leverkusen,Frimpong,Abwehr,65,"4,33",79%,55%,6650000
+33125,15/12/2022,Bayer Leverkusen,Sinkgraven,Abwehr,6,"1,50",71%,47%,400000
+33511,15/12/2022,Bayer Leverkusen,Hincapié,Abwehr,31,"2,38",83%,53%,3040000
+33481,15/12/2022,Bayer Leverkusen,Bakker,Abwehr,17,"1,31",77%,45%,1520000
+32157,15/12/2022,Bayer Leverkusen,Tah,Abwehr,32,"2,13",89%,54%,2610000
+33499,15/12/2022,Bayer Leverkusen,Kossounou ,Abwehr,14,"1,40",83%,55%,1060000
+33207,15/12/2022,Bayer Leverkusen,Tapsoba,Abwehr,35,"2,33",86%,59%,3410000
+33449,15/12/2022,Bayer Leverkusen,Azhil,Mittelfeld,0,-,-,-,200000
+33483,15/12/2022,Bayer Leverkusen,Sertdemir,Mittelfeld,0,-,-,-,180000
+33189,15/12/2022,Bayer Leverkusen,Palacios,Mittelfeld,35,"3,50",85%,57%,3530000
+33614,15/12/2022,Bayer Leverkusen,Eze,Mittelfeld,0,-,-,-,250000
+32512,15/12/2022,Bayer Leverkusen,Charles Aránguiz,Mittelfeld,25,"2,50",83%,56%,1230000
+32395,15/12/2022,Bayer Leverkusen,Amiri,Mittelfeld,21,"1,91",83%,48%,2820000
+32155,15/12/2022,Bayer Leverkusen,Demirbay,Mittelfeld,46,"3,29",79%,36%,4640000
+32129,15/12/2022,Bayer Leverkusen,Andrich,Mittelfeld,37,"2,85",84%,57%,3520000
+33215,15/12/2022,Bayer Leverkusen,Wirtz,Mittelfeld,0,-,-,-,13600000
+33556,15/12/2022,Bayer Leverkusen,Azmoun,Sturm,10,"1,25",59%,38%,1560000
+33619,15/12/2022,Bayer Leverkusen,Hložek,Sturm,31,"2,38",83%,39%,2800000
+33514,15/12/2022,Bayer Leverkusen,Adli,Sturm,11,"1,38",83%,37%,1870000
+31764,15/12/2022,Bayer Leverkusen,Bellarabi,Sturm,0,"0,00",62%,50%,1430000
+33179,15/12/2022,Bayer Leverkusen,Schick,Sturm,22,"2,00",71%,43%,10500000
+33122,15/12/2022,Bayer Leverkusen,Diaby,Sturm,78,"5,20",81%,38%,12510000
+33680,15/12/2022,Bayer Leverkusen,Hudson-Odoi,Sturm,18,"2,00",88%,58%,3850000
+33663,15/12/2022,RB Leipzig,Nickisch,Torwart,0,-,-,-,170000
+32575,15/12/2022,RB Leipzig,Gulácsi,Torwart,15,"2,50",85%,-,890000
+32481,15/12/2022,RB Leipzig,Nyland,Torwart,5,"5,00",88%,-,270000
+33664,15/12/2022,RB Leipzig,Schlieck,Torwart,0,-,-,-,170000
+31827,15/12/2022,RB Leipzig,Blaswich,Torwart,19,"2,38",84%,100%,1460000
+33434,15/12/2022,RB Leipzig,Simakan,Abwehr,31,"3,10",85%,50%,2760000
+33433,15/12/2022,RB Leipzig,Gvardiol,Abwehr,22,"1,69",90%,60%,4710000
+32824,15/12/2022,RB Leipzig,Diallo,Abwehr,24,"4,80",86%,56%,3080000
+33436,15/12/2022,RB Leipzig,Raum,Abwehr,29,"2,07",81%,46%,4480000
+33679,15/12/2022,RB Leipzig,Ba,Abwehr,0,-,-,-,270000
+32581,15/12/2022,RB Leipzig,Klostermann,Abwehr,2,"2,00",75%,71%,2940000
+32580,15/12/2022,RB Leipzig,Halstenberg,Abwehr,26,"2,17",85%,56%,1960000
+32461,15/12/2022,RB Leipzig,Henrichs,Abwehr,32,"2,29",73%,61%,1860000
+31846,15/12/2022,RB Leipzig,Orbán,Abwehr,82,"5,47",89%,62%,7700000
+33540,15/12/2022,RB Leipzig,Clark,Mittelfeld,0,-,-,-,250000
+33363,15/12/2022,RB Leipzig,Szoboszlai,Mittelfeld,63,"4,85",83%,47%,11700000
+33200,15/12/2022,RB Leipzig,Dani Olmo,Mittelfeld,35,"3,50",80%,45%,9520000
+31612,15/12/2022,RB Leipzig,Kampl,Mittelfeld,28,"2,00",91%,45%,1680000
+32589,15/12/2022,RB Leipzig,Forsberg,Mittelfeld,29,"2,42",86%,46%,3940000
+32800,15/12/2022,RB Leipzig,Laimer,Mittelfeld,7,"1,75",77%,50%,4460000
+33023,15/12/2022,RB Leipzig,Haidara,Mittelfeld,16,"1,33",83%,30%,1400000
+33133,15/12/2022,RB Leipzig,Schlager,Mittelfeld,26,"2,36",87%,46%,3740000
+33151,15/12/2022,RB Leipzig,Nkunku,Sturm,102,"6,80",82%,43%,15150000
+32591,15/12/2022,RB Leipzig,Y. Poulsen,Sturm,7,"1,17",42%,55%,1820000
+33330,15/12/2022,RB Leipzig,Hugo Novoa,Sturm,11,"1,83",73%,41%,900000
+32211,15/12/2022,RB Leipzig,Werner,Sturm,34,"3,78",75%,31%,11700000
+33180,15/12/2022,RB Leipzig,André Silva,Sturm,40,"2,86",74%,41%,7060000
+33257,15/12/2022,FC Union Berlin,L. Grill,Torwart,-5,"-1,25",66%,67%,270000
+33091,15/12/2022,FC Union Berlin,Busk,Torwart,0,-,-,-,170000
+32921,15/12/2022,FC Union Berlin,Rönnow,Torwart,42,"3,82",67%,75%,2630000
+32883,15/12/2022,FC Union Berlin,Jaeckel,Abwehr,19,"1,90",80%,42%,590000
+33141,15/12/2022,FC Union Berlin,Ryerson,Abwehr,34,"2,62",73%,49%,1850000
+32340,15/12/2022,FC Union Berlin,Baumgartl,Abwehr,5,"1,25",83%,62%,860000
+31864,15/12/2022,FC Union Berlin,Knoche,Abwehr,38,"2,71",81%,60%,2630000
+33442,15/12/2022,FC Union Berlin,Puchacz,Abwehr,1,"1,00",73%,33%,220000
+33609,15/12/2022,FC Union Berlin,Doekhi,Abwehr,26,"4,33",81%,61%,1590000
+33659,15/12/2022,FC Union Berlin,Diogo Leite,Abwehr,26,"2,00",80%,57%,2220000
+32057,15/12/2022,FC Union Berlin,Gießelmann,Abwehr,28,"2,55",75%,45%,1080000
+33096,15/12/2022,FC Union Berlin,Trimmel,Abwehr,32,"2,46",64%,47%,2290000
+33470,15/12/2022,FC Union Berlin,F. Schneider,Mittelfeld,0,-,-,-,200000
+33550,15/12/2022,FC Union Berlin,Schäfer,Mittelfeld,14,"1,27",76%,46%,900000
+33131,15/12/2022,FC Union Berlin,Dehl,Mittelfeld,0,-,-,-,180000
+32924,15/12/2022,FC Union Berlin,Möhwald,Mittelfeld,0,-,-,-,330000
+32073,15/12/2022,FC Union Berlin,R. Khedira,Mittelfeld,26,"1,86",75%,50%,1580000
+32185,15/12/2022,FC Union Berlin,Öztunali,Mittelfeld,0,-,-,0%,310000
+32251,15/12/2022,FC Union Berlin,Seguin,Mittelfeld,16,"2,29",77%,52%,580000
+33661,15/12/2022,FC Union Berlin,Thorsby,Mittelfeld,15,"1,36",68%,44%,670000
+32310,15/12/2022,FC Union Berlin,Haberer,Mittelfeld,40,"3,08",69%,39%,2730000
+32324,15/12/2022,FC Union Berlin,Haraguchi,Mittelfeld,16,"2,00",81%,69%,730000
+32532,15/12/2022,FC Union Berlin,Pantović,Mittelfeld,12,"1,50",69%,48%,480000
+33411,15/12/2022,FC Union Berlin,Leweling,Sturm,6,"1,00",88%,41%,490000
+33294,15/12/2022,FC Union Berlin,Maciejewski,Sturm,0,-,-,-,210000
+32087,15/12/2022,FC Union Berlin,Michel,Sturm,31,"2,82",61%,40%,1410000
+33616,15/12/2022,FC Union Berlin,Skarke,Sturm,0,"0,00",71%,27%,1390000
+33641,15/12/2022,FC Union Berlin,Jordan,Sturm,48,"3,69",53%,44%,5530000
+33135,15/12/2022,FC Union Berlin,S. Becker,Sturm,81,"5,40",69%,29%,8140000
+33469,15/12/2022,FC Union Berlin,Behrens,Sturm,40,"2,67",63%,52%,1950000
+33439,15/12/2022,SC Freiburg,Atubolu,Torwart,0,-,-,-,180000
+32925,15/12/2022,SC Freiburg,Flekken,Torwart,55,"3,67",72%,86%,3510000
+31881,15/12/2022,SC Freiburg,Uphoff,Torwart,0,-,-,-,200000
+33461,15/12/2022,SC Freiburg,Sildillia,Abwehr,28,"2,00",75%,44%,1290000
+33462,15/12/2022,SC Freiburg,Ezekwem,Abwehr,0,-,-,-,210000
+32807,15/12/2022,SC Freiburg,Lienhart,Abwehr,43,"2,87",86%,67%,3890000
+32597,15/12/2022,SC Freiburg,Kübler,Abwehr,31,"6,20",70%,51%,3630000
+33541,15/12/2022,SC Freiburg,Siquet,Abwehr,1,"1,00",83%,75%,200000
+32019,15/12/2022,SC Freiburg,C. Günter,Abwehr,40,"2,67",77%,38%,3470000
+31910,15/12/2022,SC Freiburg,Ginter,Abwehr,74,"4,93",84%,66%,7030000
+31751,15/12/2022,SC Freiburg,J. Schmid,Abwehr,0,-,-,-,370000
+31453,15/12/2022,SC Freiburg,Gulde,Abwehr,4,"1,33",83%,50%,290000
+32953,15/12/2022,SC Freiburg,K. Schlotterbeck,Abwehr,5,"2,50",100%,100%,1200000
+33463,15/12/2022,SC Freiburg,Schade,Mittelfeld,13,"1,63",53%,50%,2000000
+33576,15/12/2022,SC Freiburg,R. Wagner,Mittelfeld,0,"0,00",100%,0%,200000
+33637,15/12/2022,SC Freiburg,Kyereh,Mittelfeld,17,"1,89",81%,43%,1970000
+33458,15/12/2022,SC Freiburg,Weißhaupt ,Mittelfeld,12,"1,50",59%,53%,500000
+33211,15/12/2022,SC Freiburg,Keitel,Mittelfeld,12,"1,33",83%,42%,630000
+32398,15/12/2022,SC Freiburg,M. Eggestein,Mittelfeld,35,"2,69",79%,55%,3060000
+31710,15/12/2022,SC Freiburg,Höfler,Mittelfeld,39,"2,60",85%,57%,3010000
+33006,15/12/2022,SC Freiburg,Sallai,Mittelfeld,15,"2,14",76%,56%,2820000
+33677,15/12/2022,SC Freiburg,Röhl,Mittelfeld,0,-,-,-,240000
+32071,15/12/2022,SC Freiburg,Grifo,Mittelfeld,116,"7,73",80%,54%,14610000
+31958,15/12/2022,SC Freiburg,Gregoritsch,Sturm,78,"5,20",56%,50%,9550000
+33335,15/12/2022,SC Freiburg,Doan,Sturm,42,"2,80",74%,44%,4950000
+32861,15/12/2022,SC Freiburg,Höler,Sturm,5,"0,71",59%,36%,3730000
+33035,15/12/2022,SC Freiburg,Jeong,Sturm,21,"1,62",80%,39%,1380000
+31395,15/12/2022,SC Freiburg,Petersen,Sturm,13,"1,30",50%,29%,790000
+33494,15/12/2022,FC Köln,Urbig,Torwart,0,-,-,-,160000
+31848,15/12/2022,FC Köln,T. Horn,Torwart,0,-,-,-,180000
+32356,15/12/2022,FC Köln,Schwäbe,Torwart,12,"0,80",80%,100%,730000
+33495,15/12/2022,FC Köln,Köbbing,Torwart,0,-,-,-,180000
+33642,15/12/2022,FC Köln,Strauch,Abwehr,0,-,-,-,200000
+33105,15/12/2022,FC Köln,Kilian,Abwehr,10,"0,77",86%,57%,880000
+33632,15/12/2022,FC Köln,K. Pedersen,Abwehr,6,"1,20",75%,59%,330000
+33688,15/12/2022,FC Köln,Smajić,Abwehr,0,-,-,-,210000
+33552,15/12/2022,FC Köln,Chabot,Abwehr,10,"5,00",88%,58%,680000
+33686,15/12/2022,FC Köln,Soldo,Abwehr,5,"1,00",78%,50%,590000
+33051,15/12/2022,FC Köln,Schindler,Abwehr,12,"0,86",67%,53%,410000
+32278,15/12/2022,FC Köln,Hector,Abwehr,45,"3,46",78%,69%,4060000
+32744,15/12/2022,FC Köln,Hübers,Abwehr,22,"1,83",83%,57%,1500000
+32628,15/12/2022,FC Köln,B. Schmitz,Abwehr,35,"2,50",63%,58%,1670000
+32636,15/12/2022,FC Köln,Kainz,Mittelfeld,81,"5,79",73%,44%,8180000
+33453,15/12/2022,FC Köln,Ljubičić,Mittelfeld,40,"4,44",82%,42%,5000000
+33356,15/12/2022,FC Köln,Martel,Mittelfeld,19,"1,73",81%,54%,880000
+33338,15/12/2022,FC Köln,Limnios,Mittelfeld,0,-,-,-,210000
+33621,15/12/2022,FC Köln,Huseinbašić,Mittelfeld,20,"2,50",85%,39%,2060000
+32668,15/12/2022,FC Köln,Duda,Mittelfeld,8,"0,62",78%,40%,1000000
+33157,15/12/2022,FC Köln,Skhiri,Mittelfeld,45,"3,21",89%,57%,4570000
+32881,15/12/2022,FC Köln,Maina,Mittelfeld,30,"2,14",74%,40%,1770000
+33562,15/12/2022,FC Köln,Olesen,Mittelfeld,5,"1,67",73%,60%,360000
+33615,15/12/2022,FC Köln,Dietz,Sturm,13,"1,30",58%,42%,400000
+33365,15/12/2022,FC Köln,Tigges,Sturm,35,"2,92",60%,44%,2580000
+33270,15/12/2022,FC Köln,Lemperle,Sturm,1,"0,33",60%,17%,360000
+33185,15/12/2022,FC Köln,Thielmann,Sturm,21,"2,10",69%,48%,1430000
+33100,15/12/2022,FC Köln,S. Andersson,Sturm,0,-,-,-,380000
+33077,15/12/2022,FC Köln,Adamyan,Sturm,17,"1,31",74%,27%,1090000
+31709,15/12/2022,FC Köln,Uth,Sturm,4,"1,33",83%,60%,2870000
+32877,15/12/2022,FSV Mainz 05,Dahmen,Torwart,0,-,-,-,220000
+32364,15/12/2022,FSV Mainz 05,Zentner,Torwart,33,"2,20",48%,86%,1560000
+33466,15/12/2022,FSV Mainz 05,Rieß,Torwart,0,-,-,-,160000
+33326,15/12/2022,FSV Mainz 05,Tauer,Abwehr,2,"0,67",87%,44%,290000
+33117,15/12/2022,FSV Mainz 05,E. Fernandes,Abwehr,30,"2,31",75%,54%,1940000
+32989,15/12/2022,FSV Mainz 05,Aarón Martín,Abwehr,70,"4,67",83%,51%,5320000
+33417,15/12/2022,FSV Mainz 05,Leitsch,Abwehr,13,"1,86",77%,67%,990000
+31666,15/12/2022,FSV Mainz 05,Bell,Abwehr,25,"1,92",81%,48%,690000
+32534,15/12/2022,FSV Mainz 05,A. Hack,Abwehr,17,"1,31",74%,54%,1210000
+33478,15/12/2022,FSV Mainz 05,Widmer,Abwehr,36,"2,77",75%,57%,2460000
+31762,15/12/2022,FSV Mainz 05,da Costa,Abwehr,12,"1,50",65%,50%,790000
+33577,15/12/2022,FSV Mainz 05,Caci,Abwehr,27,"2,45",74%,47%,1030000
+33477,15/12/2022,FSV Mainz 05,J. Lee,Mittelfeld,46,"3,07",77%,49%,2670000
+33409,15/12/2022,FSV Mainz 05,Stach,Mittelfeld,51,"3,92",69%,60%,4640000
+32992,15/12/2022,FSV Mainz 05,Barreiro,Mittelfeld,19,"1,58",70%,53%,920000
+33590,15/12/2022,FSV Mainz 05,E. Shabani,Mittelfeld,0,-,-,-,220000
+32707,15/12/2022,FSV Mainz 05,Barkok,Mittelfeld,8,"1,33",82%,38%,470000
+33654,15/12/2022,FSV Mainz 05,Fulgini,Mittelfeld,13,"0,93",82%,41%,710000
+31959,15/12/2022,FSV Mainz 05,D. Kohr,Mittelfeld,42,"3,00",73%,52%,2590000
+33578,15/12/2022,FSV Mainz 05,Weiper,Sturm,1,"1,00",100%,-,570000
+33555,15/12/2022,FSV Mainz 05,Burgzorg,Sturm,9,"0,90",71%,31%,410000
+33538,15/12/2022,FSV Mainz 05,Bobzien,Sturm,0,-,-,-,210000
+33297,15/12/2022,FSV Mainz 05,Mustapha,Sturm,4,"1,00",53%,46%,230000
+33124,15/12/2022,FSV Mainz 05,Ingvartsen,Sturm,33,"3,67",66%,34%,2390000
+32948,15/12/2022,FSV Mainz 05,Burkardt,Sturm,27,"2,45",73%,42%,4680000
+32544,15/12/2022,FSV Mainz 05,Onisiwo,Sturm,55,"3,67",62%,36%,5150000
+33695,15/12/2022,FSV Mainz 05,Gruda,Sturm,0,-,-,-,180000
+31310,15/12/2022,TSG Hoffenheim,Pentke,Torwart,0,-,-,-,170000
+31489,15/12/2022,TSG Hoffenheim,Baumann,Torwart,45,"3,00",80%,100%,2710000
+33397,15/12/2022,TSG Hoffenheim,Noll,Torwart,0,-,-,-,160000
+33313,15/12/2022,TSG Hoffenheim,L. Philipp,Torwart,0,-,-,-,170000
+33670,15/12/2022,TSG Hoffenheim,Quaresma,Abwehr,5,"1,67",88%,73%,390000
+33669,15/12/2022,TSG Hoffenheim,Nsoki,Abwehr,9,"1,00",81%,52%,900000
+33205,15/12/2022,TSG Hoffenheim,Angeliño,Abwehr,53,"3,79",70%,54%,6010000
+33027,15/12/2022,TSG Hoffenheim,Lucas Ribeiro,Abwehr,0,-,-,-,180000
+33026,15/12/2022,TSG Hoffenheim,Kabak,Abwehr,62,"4,43",85%,58%,5880000
+33693,15/12/2022,TSG Hoffenheim,Quarshie,Abwehr,0,-,-,-,210000
+32466,15/12/2022,TSG Hoffenheim,Kadeřábek,Abwehr,27,"2,08",70%,55%,1250000
+31742,15/12/2022,TSG Hoffenheim,Bičakčić,Abwehr,0,-,-,-,340000
+32162,15/12/2022,TSG Hoffenheim,Akpoguma,Abwehr,30,"2,31",79%,54%,1000000
+31416,15/12/2022,TSG Hoffenheim,Vogt,Abwehr,34,"2,43",90%,47%,1880000
+33580,15/12/2022,TSG Hoffenheim,F. Becker,Mittelfeld,0,-,-,-,190000
+33437,15/12/2022,TSG Hoffenheim,Stiller,Mittelfeld,17,"1,89",78%,64%,1080000
+31349,15/12/2022,TSG Hoffenheim,Rudy,Mittelfeld,16,"1,60",79%,46%,530000
+33673,15/12/2022,TSG Hoffenheim,Damar,Mittelfeld,4,"1,00",81%,32%,360000
+33504,15/12/2022,TSG Hoffenheim,Bischof,Mittelfeld,1,"1,00",75%,0%,240000
+32680,15/12/2022,TSG Hoffenheim,Geiger,Mittelfeld,45,"3,21",86%,46%,3770000
+33158,15/12/2022,TSG Hoffenheim,Skov,Mittelfeld,53,"3,79",72%,45%,4540000
+32492,15/12/2022,TSG Hoffenheim,Prömel,Mittelfeld,32,"2,46",78%,52%,2660000
+32977,15/12/2022,TSG Hoffenheim,Baumgartner,Mittelfeld,61,"4,07",73%,41%,6820000
+33191,15/12/2022,TSG Hoffenheim,Dabbur,Sturm,39,"3,90",76%,33%,4040000
+33536,15/12/2022,TSG Hoffenheim,Asllani,Sturm,1,"0,33",62%,33%,520000
+32553,15/12/2022,TSG Hoffenheim,Kramarić,Sturm,41,"2,93",81%,47%,7900000
+32842,15/12/2022,TSG Hoffenheim,Bebou,Sturm,0,-,-,-,3340000
+32756,15/12/2022,TSG Hoffenheim,Bruun Larsen,Sturm,11,"1,10",77%,33%,930000
+33377,15/12/2022,TSG Hoffenheim,Rutter,Sturm,32,"2,13",64%,39%,4320000
+33692,15/12/2022,Borussioa M'Gladbach,Brüll,Torwart,0,-,-,-,160000
+32306,15/12/2022,Borussioa M'Gladbach,Sommer,Torwart,44,"4,40",81%,67%,3570000
+33306,15/12/2022,Borussioa M'Gladbach,Olschowsky,Torwart,8,"4,00",75%,0%,1150000
+31618,15/12/2022,Borussioa M'Gladbach,Sippel,Torwart,-2,"-0,67",63%,67%,330000
+33691,15/12/2022,Borussioa M'Gladbach,Dimmer,Torwart,0,-,-,-,160000
+33319,15/12/2022,Borussioa M'Gladbach,Netz,Abwehr,3,"0,75",69%,53%,660000
+33592,15/12/2022,Borussioa M'Gladbach,Itakura,Abwehr,12,"2,40",91%,52%,4900000
+33258,15/12/2022,Borussioa M'Gladbach,Scally,Abwehr,24,"1,60",77%,68%,1630000
+33167,15/12/2022,Borussioa M'Gladbach,Bensebaini,Abwehr,87,"6,21",77%,62%,8490000
+33128,15/12/2022,Borussioa M'Gladbach,Lainer,Abwehr,0,"0,00",68%,33%,410000
+32634,15/12/2022,Borussioa M'Gladbach,Doucouré,Abwehr,0,-,-,-,200000
+31380,15/12/2022,Borussioa M'Gladbach,Jantschke,Abwehr,4,"2,00",89%,67%,250000
+32472,15/12/2022,Borussioa M'Gladbach,Elvedi,Abwehr,50,"3,85",92%,74%,4470000
+32311,15/12/2022,Borussioa M'Gladbach,M. Friedrich,Abwehr,30,"2,50",86%,72%,2280000
+32931,15/12/2022,Borussioa M'Gladbach,Neuhaus,Mittelfeld,13,"2,17",75%,38%,6890000
+33636,15/12/2022,Borussioa M'Gladbach,Fraulo,Mittelfeld,0,-,-,-,230000
+33526,15/12/2022,Borussioa M'Gladbach,Noß,Mittelfeld,0,-,-,-,190000
+33450,15/12/2022,Borussioa M'Gladbach,Koné,Mittelfeld,40,"2,86",87%,56%,4390000
+33353,15/12/2022,Borussioa M'Gladbach,Reitz,Mittelfeld,0,-,100%,-,200000
+32080,15/12/2022,Borussioa M'Gladbach,Hofmann,Mittelfeld,88,"6,77",79%,46%,14670000
+32159,15/12/2022,Borussioa M'Gladbach,Kramer,Mittelfeld,9,"0,64",84%,42%,1110000
+32447,15/12/2022,Borussioa M'Gladbach,Weigl,Mittelfeld,28,"2,55",88%,69%,3570000
+33075,15/12/2022,Borussioa M'Gladbach,H. Wolf,Mittelfeld,2,"1,00",71%,63%,590000
+32944,15/12/2022,Borussioa M'Gladbach,Müsel,Sturm,0,-,-,-,210000
+33681,15/12/2022,Borussioa M'Gladbach,Ngoumou,Sturm,4,"0,67",71%,44%,610000
+32968,15/12/2022,Borussioa M'Gladbach,Pléa,Sturm,50,"4,55",72%,42%,8390000
+33618,15/12/2022,Borussioa M'Gladbach,Borges Sanches,Sturm,4,"1,33",83%,50%,290000
+31596,15/12/2022,Borussioa M'Gladbach,P. Herrmann,Sturm,18,"2,25",69%,41%,810000
+33152,15/12/2022,Borussioa M'Gladbach,Thuram,Sturm,92,"6,13",74%,45%,12420000
+31243,15/12/2022,Borussioa M'Gladbach,Stindl,Sturm,34,"3,09",79%,38%,5370000
+33698,15/12/2022,Eintrach Frankfurt,Simoni,Torwart,0,-,-,-,610000
+33440,15/12/2022,Eintrach Frankfurt,Ramaj,Torwart,0,-,-,-,160000
+31621,15/12/2022,Eintrach Frankfurt,Trapp,Torwart,22,"1,47",60%,100%,2310000
+31458,15/12/2022,Eintrach Frankfurt,Grahl,Torwart,0,-,-,-,190000
+31220,15/12/2022,Eintrach Frankfurt,Hasebe,Abwehr,9,"2,25",85%,67%,920000
+33613,15/12/2022,Eintrach Frankfurt,Smolčić,Abwehr,9,"2,25",77%,87%,1190000
+33094,15/12/2022,Eintrach Frankfurt,C. Lenz,Abwehr,27,"3,00",81%,55%,2110000
+33031,15/12/2022,Eintrach Frankfurt,Touré,Abwehr,4,"2,00",81%,71%,1070000
+33029,15/12/2022,Eintrach Frankfurt,Tuta,Abwehr,30,"2,00",81%,45%,1940000
+32963,15/12/2022,Eintrach Frankfurt,N'Dicka,Abwehr,33,"2,20",86%,55%,2980000
+33620,15/12/2022,Eintrach Frankfurt,Buta,Abwehr,0,-,-,-,970000
+33646,15/12/2022,Eintrach Frankfurt,Schröder,Abwehr,0,-,-,-,180000
+32743,15/12/2022,Eintrach Frankfurt,Onguéné,Abwehr,0,-,-,-,570000
+33675,15/12/2022,Eintrach Frankfurt,Pellegrini,Abwehr,30,"3,33",73%,56%,1880000
+33678,15/12/2022,Eintrach Frankfurt,Dina Ebimbe,Mittelfeld,29,"2,90",72%,48%,4140000
+33696,15/12/2022,Eintrach Frankfurt,Aaronson,Mittelfeld,0,-,-,-,4380000
+33585,15/12/2022,Eintrach Frankfurt,Loune,Mittelfeld,0,-,-,-,190000
+33581,15/12/2022,Eintrach Frankfurt,Wenig,Mittelfeld,0,-,90%,-,200000
+33517,15/12/2022,Eintrach Frankfurt,Jakić,Mittelfeld,32,"2,29",77%,49%,1800000
+33480,15/12/2022,Eintrach Frankfurt,Lindstrøm,Mittelfeld,54,"3,86",70%,35%,7790000
+31671,15/12/2022,Eintrach Frankfurt,Rode,Mittelfeld,40,"3,33",87%,53%,2870000
+31743,15/12/2022,Eintrach Frankfurt,Chandler,Mittelfeld,2,"0,67",61%,60%,210000
+32653,15/12/2022,Eintrach Frankfurt,Sow,Mittelfeld,50,"3,33",86%,59%,3780000
+32792,15/12/2022,Eintrach Frankfurt,Kamada,Mittelfeld,75,"5,77",84%,45%,9610000
+31572,15/12/2022,Eintrach Frankfurt,M. Götze,Mittelfeld,61,"4,07",78%,44%,8450000
+33383,15/12/2022,Eintrach Frankfurt,Knauff,Mittelfeld,22,"2,00",65%,52%,3030000
+33586,15/12/2022,Eintrach Frankfurt,Nacho Ferri,Sturm,0,-,-,-,240000
+33472,15/12/2022,Eintrach Frankfurt,Borré,Sturm,24,"1,71",77%,40%,1670000
+33584,15/12/2022,Eintrach Frankfurt,Kolo Muani,Sturm,59,"4,21",66%,39%,10910000
+33583,15/12/2022,Eintrach Frankfurt,Alidou,Sturm,7,"0,88",78%,32%,430000
+32840,15/12/2022,Eintrach Frankfurt,Lucas Alario,Sturm,16,"2,29",70%,38%,1400000
+31866,15/12/2022,VfL Wolfsburg,Casteels,Torwart,58,"3,87",74%,100%,3850000
+32949,15/12/2022,VfL Wolfsburg,Pervan,Torwart,0,-,-,-,340000
+33154,15/12/2022,VfL Wolfsburg,Klinger,Torwart,0,-,-,-,170000
+33488,15/12/2022,VfL Wolfsburg,Schulze,Torwart,0,-,-,-,160000
+33164,15/12/2022,VfL Wolfsburg,Bornauw,Abwehr,17,"1,70",82%,45%,1480000
+33674,15/12/2022,VfL Wolfsburg,Lange,Abwehr,0,-,-,-,190000
+33325,15/12/2022,VfL Wolfsburg,Lacroix,Abwehr,28,"3,11",87%,57%,1660000
+33524,15/12/2022,VfL Wolfsburg,van de Ven,Abwehr,40,"2,67",89%,61%,2690000
+33625,15/12/2022,VfL Wolfsburg,Fischer,Abwehr,2,"0,67",76%,44%,610000
+33120,15/12/2022,VfL Wolfsburg,Paulo Otávio,Abwehr,49,"3,77",76%,58%,4050000
+32988,15/12/2022,VfL Wolfsburg,Roussillon,Abwehr,2,"1,00",50%,20%,350000
+32889,15/12/2022,VfL Wolfsburg,Baku,Abwehr,62,"4,13",79%,52%,6340000
+31884,15/12/2022,VfL Wolfsburg,Arnold,Mittelfeld,97,"6,47",81%,66%,11290000
+33498,15/12/2022,VfL Wolfsburg,F. Nmecha,Mittelfeld,45,"3,46",70%,63%,4590000
+33639,15/12/2022,VfL Wolfsburg,Franjić,Mittelfeld,8,"2,67",77%,65%,580000
+32280,15/12/2022,VfL Wolfsburg,Gerhardt,Mittelfeld,30,"3,33",75%,37%,2390000
+32373,15/12/2022,VfL Wolfsburg,Guilavogui,Mittelfeld,21,"2,33",79%,48%,780000
+33658,15/12/2022,VfL Wolfsburg,Svanberg,Mittelfeld,19,"1,36",72%,48%,1150000
+33553,15/12/2022,VfL Wolfsburg,Paredes,Mittelfeld,10,"1,43",78%,50%,650000
+33657,15/12/2022,VfL Wolfsburg,Pejčinović,Sturm,0,-,-,-,220000
+33607,15/12/2022,VfL Wolfsburg,J. Kaminski,Sturm,8,"0,62",73%,34%,1420000
+33559,15/12/2022,VfL Wolfsburg,Wind,Sturm,14,"2,80",68%,65%,5580000
+32206,15/12/2022,VfL Wolfsburg,Waldschmidt,Sturm,6,"1,00",76%,41%,4840000
+33507,15/12/2022,VfL Wolfsburg,P. Wimmer,Sturm,25,"3,13",63%,40%,3820000
+32269,15/12/2022,VfL Wolfsburg,M. Philipp,Sturm,6,"2,00",76%,67%,1100000
+32606,15/12/2022,VfL Wolfsburg,Brekalo,Sturm,8,"1,33",74%,36%,470000
+33160,15/12/2022,VfL Wolfsburg,L. Nmecha,Sturm,43,"3,58",65%,58%,5970000
+33217,15/12/2022,VfL Wolfsburg,Marmoush,Sturm,21,"1,50",66%,42%,2530000
+33685,15/12/2022,VfL Bochum,Johansson,Torwart,0,-,-,-,170000
+33415,15/12/2022,VfL Bochum,Grave,Torwart,0,-,-,-,160000
+33414,15/12/2022,VfL Bochum,Riemann,Torwart,41,"2,73",59%,78%,2270000
+32639,15/12/2022,VfL Bochum,Esser,Torwart,0,-,-,-,170000
+31882,15/12/2022,VfL Bochum,Heintz,Abwehr,-1,"-0,25",89%,43%,400000
+33667,15/12/2022,VfL Bochum,Tolba,Abwehr,0,-,-,-,200000
+33653,15/12/2022,VfL Bochum,Ordets,Abwehr,21,"1,50",73%,62%,830000
+33638,15/12/2022,VfL Bochum,Janko,Abwehr,0,"0,00",81%,46%,210000
+33630,15/12/2022,VfL Bochum,Oermann,Abwehr,-2,"-0,50",78%,43%,210000
+33422,15/12/2022,VfL Bochum,Gamboa,Abwehr,27,"1,80",68%,61%,1130000
+33420,15/12/2022,VfL Bochum,Mašović,Abwehr,16,"1,45",84%,53%,430000
+33419,15/12/2022,VfL Bochum,Lampropoulos,Abwehr,5,"0,83",68%,55%,330000
+32570,15/12/2022,VfL Bochum,J. Horn,Abwehr,1,"0,50",81%,67%,250000
+32150,15/12/2022,VfL Bochum,Stafylidis,Abwehr,19,"2,38",80%,62%,1260000
+32428,15/12/2022,VfL Bochum,Danilo Soares,Abwehr,16,"1,60",73%,61%,1780000
+33635,15/12/2022,VfL Bochum,Osei-Tutu,Mittelfeld,12,"1,00",76%,49%,430000
+33424,15/12/2022,VfL Bochum,Losilla,Mittelfeld,25,"1,67",71%,51%,1290000
+33242,15/12/2022,VfL Bochum,Förster,Mittelfeld,29,"2,64",80%,49%,1050000
+33156,15/12/2022,VfL Bochum,Osterhage,Mittelfeld,4,"0,40",67%,33%,380000
+31985,15/12/2022,VfL Bochum,Stöger,Mittelfeld,56,"4,00",75%,48%,4740000
+33631,15/12/2022,VfL Bochum,Góralski,Mittelfeld,4,"1,33",78%,60%,310000
+32626,15/12/2022,VfL Bochum,Holtmann,Sturm,32,"2,46",70%,40%,1220000
+33676,15/12/2022,VfL Bochum,Mousset,Sturm,0,-,-,-,300000
+33430,15/12/2022,VfL Bochum,Bonga,Sturm,0,-,-,-,200000
+33429,15/12/2022,VfL Bochum,Ganvoula,Sturm,13,"1,63",58%,52%,340000
+32790,15/12/2022,VfL Bochum,Asano,Sturm,3,"0,60",82%,34%,1820000
+33061,15/12/2022,VfL Bochum,Antwi-Adjei,Sturm,34,"3,40",67%,32%,2720000
+31957,15/12/2022,VfL Bochum,P. Hofmann,Sturm,62,"4,13",61%,51%,4570000
+32330,15/12/2022,VfL Bochum,Zoller,Sturm,37,"2,64",62%,38%,1860000
+33012,15/12/2022,FC Augsburg,Leneis,Torwart,0,-,-,-,160000
+32684,15/12/2022,FC Augsburg,Gikiewicz,Torwart,49,"4,45",61%,100%,3040000
+33162,15/12/2022,FC Augsburg,Koubek,Torwart,10,"2,50",61%,100%,330000
+33298,15/12/2022,FC Augsburg,Klein,Torwart,0,-,-,-,180000
+32171,15/12/2022,FC Augsburg,Framberger,Abwehr,1,"0,33",35%,54%,240000
+33129,15/12/2022,FC Augsburg,Iago,Abwehr,12,"0,92",63%,42%,1050000
+32801,15/12/2022,FC Augsburg,Uduokhai,Abwehr,10,"1,43",73%,45%,1520000
+32789,15/12/2022,FC Augsburg,Oxford,Abwehr,6,"2,00",57%,59%,2110000
+33134,15/12/2022,FC Augsburg,M. Pedersen,Abwehr,21,"1,75",70%,48%,640000
+33587,15/12/2022,FC Augsburg,Zehnter,Abwehr,0,-,-,-,290000
+33452,15/12/2022,FC Augsburg,Winther,Abwehr,2,"2,00",65%,54%,230000
+33403,15/12/2022,FC Augsburg,M. Bauer,Abwehr,18,"1,29",72%,61%,590000
+32549,15/12/2022,FC Augsburg,Gouweleeuw,Abwehr,29,"2,07",66%,56%,1190000
+33332,15/12/2022,FC Augsburg,Gumny,Abwehr,23,"2,09",61%,45%,710000
+33398,15/12/2022,FC Augsburg,Petkov,Mittelfeld,4,"0,67",52%,35%,240000
+33127,15/12/2022,FC Augsburg,Vargas,Mittelfeld,20,"1,82",53%,49%,1470000
+31571,15/12/2022,FC Augsburg,D. Caligiuri,Mittelfeld,17,"2,13",63%,42%,870000
+32956,15/12/2022,FC Augsburg,Jensen,Mittelfeld,22,"2,00",60%,37%,630000
+32817,15/12/2022,FC Augsburg,Rexhbecaj,Mittelfeld,18,"1,29",60%,58%,840000
+31838,15/12/2022,FC Augsburg,Baumgartlinger,Mittelfeld,7,"1,17",85%,52%,600000
+32738,15/12/2022,FC Augsburg,A. Maier,Mittelfeld,14,"1,40",77%,43%,860000
+32603,15/12/2022,FC Augsburg,Dorsch,Mittelfeld,0,-,-,-,3150000
+31915,15/12/2022,FC Augsburg,Strobl,Mittelfeld,0,-,-,-,200000
+32255,15/12/2022,FC Augsburg,Carlos Gruezo,Mittelfeld,22,"1,69",74%,57%,730000
+32096,15/12/2022,FC Augsburg,Hahn,Sturm,21,"3,00",47%,48%,960000
+32465,15/12/2022,FC Augsburg,Niederlechner,Sturm,49,"3,50",61%,42%,4940000
+33311,15/12/2022,FC Augsburg,Demirović,Sturm,56,"3,73",47%,37%,4140000
+32572,15/12/2022,FC Augsburg,Sarenren-Bazee,Sturm,0,-,-,-,260000
+32806,15/12/2022,FC Augsburg,Sergio Córdova,Sturm,0,-,-,-,200000
+33683,15/12/2022,FC Augsburg,Berisha,Sturm,35,"3,50",51%,35%,3440000
+33689,15/12/2022,VfB Stuttgart,Glaus,Torwart,0,-,-,-,170000
+33527,15/12/2022,VfB Stuttgart,Schock,Torwart,0,-,-,-,170000
+32656,15/12/2022,VfB Stuttgart,F. Müller,Torwart,22,"1,47",80%,100%,860000
+32891,15/12/2022,VfB Stuttgart,Bredlow,Torwart,0,-,-,-,160000
+33496,15/12/2022,VfB Stuttgart,Ito,Abwehr,33,"2,54",82%,49%,1870000
+33308,15/12/2022,VfB Stuttgart,Mavropanos,Abwehr,81,"6,23",80%,66%,8130000
+32452,15/12/2022,VfB Stuttgart,Anton,Abwehr,42,"2,80",82%,56%,2170000
+33017,15/12/2022,VfB Stuttgart,Aidonis,Abwehr,0,-,-,-,200000
+32919,15/12/2022,VfB Stuttgart,B. Sosa,Abwehr,46,"3,83",79%,54%,5450000
+32880,15/12/2022,VfB Stuttgart,Vagnoman,Abwehr,4,"0,50",78%,50%,1250000
+32526,15/12/2022,VfB Stuttgart,Stenzel,Abwehr,18,"2,25",76%,65%,420000
+32773,15/12/2022,VfB Stuttgart,Zagadou,Abwehr,11,"1,83",84%,50%,2170000
+33666,15/12/2022,VfB Stuttgart,Ulrich,Mittelfeld,1,"1,00",100%,100%,410000
+33510,15/12/2022,VfB Stuttgart,Millot,Mittelfeld,17,"1,70",84%,44%,790000
+33347,15/12/2022,VfB Stuttgart,Ahamada,Mittelfeld,35,"2,33",86%,49%,2380000
+33253,15/12/2022,VfB Stuttgart,Egloff,Mittelfeld,14,"1,75",61%,60%,520000
+33247,15/12/2022,VfB Stuttgart,Silas,Mittelfeld,30,"2,14",79%,41%,4160000
+32830,15/12/2022,VfB Stuttgart,Nartey,Mittelfeld,3,"1,50",77%,60%,250000
+33241,15/12/2022,VfB Stuttgart,W. Endo,Mittelfeld,58,"4,14",76%,60%,6180000
+32858,15/12/2022,VfB Stuttgart,Führich,Mittelfeld,45,"3,21",80%,51%,3570000
+33085,15/12/2022,VfB Stuttgart,Karazor,Mittelfeld,24,"2,40",84%,63%,1100000
+33652,15/12/2022,VfB Stuttgart,Perea,Sturm,7,"0,88",84%,36%,380000
+33588,15/12/2022,VfB Stuttgart,Kastanaras,Sturm,0,"0,00",100%,0%,230000
+33557,15/12/2022,VfB Stuttgart,Tiago Tomás,Sturm,35,"2,69",62%,44%,3190000
+33072,15/12/2022,VfB Stuttgart,Pfeiffer,Sturm,5,"0,45",62%,43%,910000
+32667,15/12/2022,VfB Stuttgart,Guirassy,Sturm,39,"3,90",68%,55%,5900000
+33445,15/12/2022,VfB Stuttgart,Kuol,Sturm,0,-,-,-,250000
+33245,15/12/2022,VfB Stuttgart,T. Coulibaly,Sturm,3,"3,00",80%,100%,1070000
+33563,15/12/2022,Hertha BSC,Ernst,Torwart,0,-,-,-,160000
+33627,15/12/2022,Hertha BSC,Kwasigroch,Torwart,0,-,-,-,170000
+33513,15/12/2022,Hertha BSC,Christensen,Torwart,33,"2,20",67%,73%,1320000
+33566,15/12/2022,Hertha BSC,Eitschberger,Abwehr,0,-,-,-,200000
+33617,15/12/2022,Hertha BSC,Uremović,Abwehr,7,"1,00",82%,57%,400000
+33329,15/12/2022,Hertha BSC,M. Dárdai,Abwehr,7,"1,17",61%,60%,580000
+33316,15/12/2022,Hertha BSC,Zeefuik,Abwehr,0,-,-,-,210000
+33119,15/12/2022,Hertha BSC,Kenny,Abwehr,38,"2,53",75%,55%,2150000
+32509,15/12/2022,Hertha BSC,Mittelstädt,Abwehr,15,"2,50",80%,54%,1210000
+31399,15/12/2022,Hertha BSC,Pekarik,Abwehr,1,"1,00",75%,0%,200000
+31740,15/12/2022,Hertha BSC,Plattenhardt,Abwehr,30,"2,31",75%,54%,1480000
+32049,15/12/2022,Hertha BSC,Kempf,Abwehr,53,"3,53",78%,61%,3640000
+33684,15/12/2022,Hertha BSC,Agustín Rogel,Abwehr,12,"1,50",77%,55%,1050000
+30764,15/12/2022,Hertha BSC,K. Boateng,Mittelfeld,-2,"-0,29",84%,15%,220000
+32527,15/12/2022,Hertha BSC,Serdar,Mittelfeld,47,"3,36",73%,53%,3470000
+33267,15/12/2022,Hertha BSC,Tousart,Mittelfeld,39,"2,79",66%,54%,2370000
+33650,15/12/2022,Hertha BSC,Šunjić,Mittelfeld,22,"1,69",77%,54%,1150000
+33001,15/12/2022,Hertha BSC,Boëtius,Mittelfeld,14,"1,40",74%,53%,1270000
+33629,15/12/2022,Hertha BSC,Scherhant,Sturm,1,"0,50",71%,25%,320000
+33668,15/12/2022,Hertha BSC,Kanga,Sturm,35,"2,50",65%,42%,2780000
+33655,15/12/2022,Hertha BSC,Ejuke,Sturm,27,"1,80",82%,44%,1250000
+33561,15/12/2022,Hertha BSC,Nsona,Sturm,0,-,-,-,210000
+33554,15/12/2022,Hertha BSC,D.-J. Lee,Sturm,0,-,-,-,190000
+33519,15/12/2022,Hertha BSC,Maolida,Sturm,-1,"-0,50",38%,18%,230000
+33500,15/12/2022,Hertha BSC,Jovetić,Sturm,25,"3,13",62%,50%,1820000
+33214,15/12/2022,Hertha BSC,Ngankam,Sturm,0,-,-,-,750000
+32983,15/12/2022,Hertha BSC,Lukébakio,Sturm,79,"5,27",73%,43%,6890000
+32733,15/12/2022,Hertha BSC,Richter,Sturm,43,"3,58",69%,44%,3710000
+32229,15/12/2022,Hertha BSC,Selke,Sturm,26,"2,17",60%,46%,1970000
+33697,15/12/2022,Hertha BSC,Aksakal,Sturm,0,-,-,-,160000
+30844,15/12/2022,FC Schalke 04,Langer,Torwart,0,-,-,-,170000
+30988,15/12/2022,FC Schalke 04,Fährmann,Torwart,0,-,-,-,200000
+31774,15/12/2022,FC Schalke 04,Schwolow,Torwart,26,"1,73",60%,83%,850000
+33623,15/12/2022,FC Schalke 04,Heekeren,Torwart,0,-,-,-,230000
+33395,15/12/2022,FC Schalke 04,Matriciani,Abwehr,16,"2,00",75%,61%,920000
+33226,15/12/2022,FC Schalke 04,Brunner,Abwehr,23,"1,92",74%,47%,1100000
+33593,15/12/2022,FC Schalke 04,Greiml,Abwehr,2,"0,50",82%,42%,380000
+33595,15/12/2022,FC Schalke 04,I. Cissé,Abwehr,0,-,-,-,230000
+33596,15/12/2022,FC Schalke 04,Ouwejan,Abwehr,25,"2,50",69%,58%,1830000
+32745,15/12/2022,FC Schalke 04,M. Kaminski,Abwehr,3,"3,00",81%,0%,430000
+32717,15/12/2022,FC Schalke 04,Kolodziejczak,Abwehr,1,"1,00",85%,0%,370000
+33651,15/12/2022,FC Schalke 04,Yoshida,Abwehr,37,"2,47",79%,67%,2100000
+33682,15/12/2022,FC Schalke 04,van den Berg,Abwehr,7,"1,75",83%,45%,1130000
+33384,15/12/2022,FC Schalke 04,Aydin,Abwehr,9,"1,29",66%,48%,290000
+33622,15/12/2022,FC Schalke 04,Mollet,Mittelfeld,12,"1,33",79%,30%,640000
+33656,15/12/2022,FC Schalke 04,Král,Mittelfeld,19,"1,58",70%,51%,1330000
+33301,15/12/2022,FC Schalke 04,Zalazar,Mittelfeld,11,"1,38",67%,44%,2490000
+33283,15/12/2022,FC Schalke 04,Mohr,Mittelfeld,33,"3,00",67%,45%,1670000
+33130,15/12/2022,FC Schalke 04,Krauß,Mittelfeld,45,"3,00",75%,55%,2740000
+33087,15/12/2022,FC Schalke 04,Drexler,Mittelfeld,18,"1,50",67%,43%,900000
+33040,15/12/2022,FC Schalke 04,Boujellab,Mittelfeld,0,-,-,-,200000
+31392,15/12/2022,FC Schalke 04,Latza,Mittelfeld,7,"0,78",74%,40%,320000
+31110,15/12/2022,FC Schalke 04,Terodde,Sturm,44,"2,93",67%,36%,3090000
+33672,15/12/2022,FC Schalke 04,Larsson,Sturm,9,"1,00",74%,41%,400000
+31479,15/12/2022,FC Schalke 04,Polter,Sturm,27,"1,93",58%,42%,1030000
+32190,15/12/2022,FC Schalke 04,Karaman,Sturm,1,"0,11",69%,45%,480000
+33139,15/12/2022,FC Schalke 04,Bülter,Sturm,33,"2,20",68%,41%,1650000
+33694,15/12/2022,FC Schalke 04,S. Sané,Sturm,0,-,-,-,670000
+33665,15/12/2022,SV Werder Bremen,Lord,Torwart,0,-,-,-,170000
+33647,15/12/2022,SV Werder Bremen,Backhaus,Torwart,0,-,-,-,170000
+33331,15/12/2022,SV Werder Bremen,Dudu ,Torwart,0,-,-,-,180000
+32799,15/12/2022,SV Werder Bremen,Pavlenka,Torwart,35,"2,33",67%,63%,1800000
+32408,15/12/2022,SV Werder Bremen,Zetterer,Torwart,5,"5,00",54%,100%,160000
+33288,15/12/2022,SV Werder Bremen,Agu,Abwehr,-2,"-0,67",74%,38%,220000
+33224,15/12/2022,SV Werder Bremen,Pieper,Abwehr,31,"2,38",78%,68%,1800000
+31929,15/12/2022,SV Werder Bremen,M. Weiser,Abwehr,60,"4,00",71%,51%,4900000
+33601,15/12/2022,SV Werder Bremen,Chiarodia,Abwehr,1,"1,00",0%,100%,210000
+32935,15/12/2022,SV Werder Bremen,Mbom,Abwehr,0,-,-,-,230000
+32754,15/12/2022,SV Werder Bremen,Friedl,Abwehr,32,"2,29",83%,60%,2590000
+33649,15/12/2022,SV Werder Bremen,Buchanan,Abwehr,22,"2,44",73%,44%,880000
+32579,15/12/2022,SV Werder Bremen,A. Jung,Abwehr,44,"2,93",79%,53%,2090000
+32562,15/12/2022,SV Werder Bremen,Veljković,Abwehr,42,"3,50",81%,61%,2830000
+32412,15/12/2022,SV Werder Bremen,Rapp,Abwehr,5,"0,83",79%,42%,240000
+32120,15/12/2022,SV Werder Bremen,N. Stark,Abwehr,25,"2,78",82%,55%,1520000
+33640,15/12/2022,SV Werder Bremen,Stage,Mittelfeld,16,"1,23",63%,51%,710000
+33604,15/12/2022,SV Werder Bremen,Salifou,Mittelfeld,0,-,-,-,200000
+31519,15/12/2022,SV Werder Bremen,C. Groß,Mittelfeld,21,"1,62",82%,44%,1020000
+33110,15/12/2022,SV Werder Bremen,R. Schmid,Mittelfeld,19,"1,36",77%,44%,630000
+33043,15/12/2022,SV Werder Bremen,Gruev,Mittelfeld,21,"1,62",87%,43%,1130000
+31932,15/12/2022,SV Werder Bremen,Bittencourt,Mittelfeld,27,"2,70",77%,45%,2570000
+32652,15/12/2022,SV Werder Bremen,N. Schmidt,Mittelfeld,20,"3,33",78%,58%,580000
+33364,15/12/2022,SV Werder Bremen,Dinkçi,Sturm,5,"1,67",53%,64%,320000
+32694,15/12/2022,SV Werder Bremen,Burke,Sturm,27,"2,08",71%,33%,1250000
+31916,15/12/2022,SV Werder Bremen,Füllkrug,Sturm,97,"6,93",62%,50%,14430000
+32202,15/12/2022,SV Werder Bremen,Ducksch,Sturm,71,"4,73",72%,46%,8520000
